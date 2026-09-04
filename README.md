@@ -236,7 +236,7 @@ deliberately, since working through these was most of the actual learning:
 
 ## How to Explore This Project
 
-- **Raw data sources:** [`mysql_seed.sql`](mysql_seed.sql) ·
+- **Raw data sources:** [`mysql_seed.sql`](dataset/mysql_seed.sql) ·
   [`legacy_deals_2021_2022.csv`](legacy_deals_2021_2022.csv) ·
   [`sharepoint_rep_quotas.csv`](sharepoint_rep_quotas.csv)
 - **Power BI dashboard:** [`b2bdashboard.pbix`](b2bdashboard.pbix) — open in
