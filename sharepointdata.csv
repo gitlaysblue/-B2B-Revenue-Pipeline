@@ -1,0 +1,627 @@
+﻿account_name,rep_name,product_name,Sum of amount,stage_name
+Brown Inc,Priya Nair,API Access Tier,98900,Negotiation
+Blake and Sons,Arjun Rao,Implementation Package,77300,Negotiation
+Ramos PLC,Aditi Sharma,API Access Tier,75700,Qualification
+Baker and Sons,Sneha Kapoor,API Access Tier,69800,Qualification
+"Williams, Miller and Sandoval",Aditi Sharma,API Access Tier,68700,Negotiation
+Powell PLC,Meera Iyer,API Access Tier,67800,Proposal Sent
+"Johnson, Gonzalez and Santos",Rohan Verma,API Access Tier,66800,Proposal Sent
+Cole LLC,Meera Iyer,API Access Tier,66600,Prospecting
+Martin Group,Meera Iyer,API Access Tier,65800,Proposal Sent
+"Campos, Vaughn and Marquez",Karan Malhotra,API Access Tier,65300,Qualification
+"Brown, Jones and Johnson",Karan Malhotra,API Access Tier,65100,Negotiation
+"Johnson, Gonzalez and Santos",Aditi Sharma,API Access Tier,64500,Prospecting
+Davis Group,Rohan Verma,API Access Tier,64400,Prospecting
+Donovan-Harris,Sneha Kapoor,API Access Tier,64200,Prospecting
+Delacruz Group,Rohan Verma,API Access Tier,63400,Proposal Sent
+"Hawkins, Cohen and Cameron",Meera Iyer,API Access Tier,62800,Qualification
+"Young, Caldwell and Lewis",Priya Nair,API Access Tier,62800,Negotiation
+Munoz-Roman,Aditi Sharma,API Access Tier,62400,Negotiation
+"Garcia, Powell and Morgan",Arjun Rao,API Access Tier,62100,Qualification
+"Hawkins, Cohen and Cameron",Meera Iyer,API Access Tier,61900,Prospecting
+Ibarra-Suarez,Aditi Sharma,API Access Tier,61600,Qualification
+Donovan-Harris,Meera Iyer,API Access Tier,61200,Qualification
+Conner Group,Arjun Rao,API Access Tier,60400,Negotiation
+Donovan-Harris,Priya Nair,API Access Tier,59500,Negotiation
+"Lynch, Hernandez and Farmer",Meera Iyer,API Access Tier,59100,Qualification
+Chapman Inc,Sneha Kapoor,API Access Tier,58800,Prospecting
+Ramirez-Lewis,Aditi Sharma,API Access Tier,58700,Proposal Sent
+White-Ford,Karan Malhotra,API Access Tier,57700,Proposal Sent
+"Campos, Vaughn and Marquez",Karan Malhotra,API Access Tier,57600,Negotiation
+Robinson-Bright,Sneha Kapoor,API Access Tier,57000,Prospecting
+"Young, Caldwell and Lewis",Arjun Rao,API Access Tier,55900,Prospecting
+"Kidd, Huff and Novak",Karan Malhotra,API Access Tier,55200,Proposal Sent
+"Hawkins, Cohen and Cameron",Meera Iyer,API Access Tier,54500,Proposal Sent
+Davis Inc,Vikram Singh,API Access Tier,53200,Qualification
+"Johnston, Sanchez and Kennedy",Vikram Singh,API Access Tier,53000,Qualification
+Barrera-Martin,Aditi Sharma,Implementation Package,52700,Proposal Sent
+Ramirez-Lewis,Meera Iyer,Implementation Package,52100,Qualification
+"Martinez, Nielsen and Miller",Aditi Sharma,Implementation Package,51900,Prospecting
+Robinson-Bright,Sneha Kapoor,Implementation Package,51800,Qualification
+Allen PLC,Arjun Rao,Core Platform License,51700,Qualification
+Blake and Sons,Meera Iyer,API Access Tier,51500,Qualification
+Stanton-Gill,Priya Nair,Analytics Add-on,51400,Prospecting
+Shaw-Farrell,Vikram Singh,Implementation Package,51300,Proposal Sent
+"Brown, Jones and Johnson",Rohan Verma,Implementation Package,51200,Prospecting
+"Cannon, Anderson and Alvarez",Aditi Sharma,Implementation Package,51100,Proposal Sent
+Medina PLC,Karan Malhotra,Implementation Package,51000,Qualification
+"Miller, Lopez and Larson",Meera Iyer,Implementation Package,51000,Negotiation
+Dennis Inc,Aditi Sharma,API Access Tier,50900,Negotiation
+"Sanchez, Ford and Nelson",Karan Malhotra,API Access Tier,50600,Prospecting
+Barrera-Martin,Sneha Kapoor,Core Platform License,50300,Negotiation
+Bryant-Hickman,Priya Nair,Core Platform License,50200,Prospecting
+"Rodriguez, Figueroa and Sanchez",Rohan Verma,Implementation Package,50000,Qualification
+Harrell LLC,Priya Nair,Implementation Package,49900,Negotiation
+"Fitzgerald, Brown and Edwards",Meera Iyer,Implementation Package,49700,Proposal Sent
+Horton-Cross,Rohan Verma,Core Platform License,49700,Negotiation
+Harrell LLC,Arjun Rao,Implementation Package,49300,Prospecting
+Munoz-Roman,Rohan Verma,Implementation Package,49100,Negotiation
+Rose-Obrien,Priya Nair,Core Platform License,48900,Prospecting
+"Higgins, Moore and Phillips",Meera Iyer,API Access Tier,48700,Proposal Sent
+"Martinez, Nielsen and Miller",Aditi Sharma,Core Platform License,48700,Prospecting
+Clark PLC,Karan Malhotra,Implementation Package,48500,Negotiation
+Kim PLC,Rohan Verma,Core Platform License,48300,Prospecting
+Lewis-Porter,Meera Iyer,Implementation Package,48200,Qualification
+"Zuniga, Wong and Lynch",Sneha Kapoor,API Access Tier,48200,Prospecting
+Clark PLC,Arjun Rao,Implementation Package,47800,Qualification
+Lewis-Porter,Rohan Verma,Core Platform License,47200,Qualification
+Cole LLC,Vikram Singh,Core Platform License,47000,Negotiation
+Owens-Daniel,Rohan Verma,API Access Tier,46900,Qualification
+"Cannon, Anderson and Alvarez",Aditi Sharma,Core Platform License,46500,Proposal Sent
+Brown Inc,Arjun Rao,API Access Tier,46400,Qualification
+"Zuniga, Wong and Lynch",Priya Nair,API Access Tier,46400,Negotiation
+Medina PLC,Sneha Kapoor,API Access Tier,46300,Proposal Sent
+Robinson-Bright,Arjun Rao,Core Platform License,46300,Prospecting
+"Santos, Kim and Holmes",Arjun Rao,Core Platform License,46300,Qualification
+Baker and Sons,Karan Malhotra,Implementation Package,46100,Proposal Sent
+"Johnson, Gonzalez and Santos",Vikram Singh,Implementation Package,46000,Proposal Sent
+Ramos PLC,Meera Iyer,Implementation Package,46000,Negotiation
+"Sanchez, Ford and Nelson",Priya Nair,Core Platform License,45700,Proposal Sent
+Koch-Decker,Rohan Verma,Implementation Package,45600,Negotiation
+Burgess-Patterson,Rohan Verma,Core Platform License,45500,Negotiation
+"Valencia, Smith and Le",Aditi Sharma,Core Platform License,45500,Qualification
+Rose-Obrien,Rohan Verma,API Access Tier,45400,Qualification
+Baker and Sons,Rohan Verma,API Access Tier,45300,Proposal Sent
+Chavez Ltd,Aditi Sharma,Analytics Add-on,44900,Qualification
+Burgess-Patterson,Rohan Verma,Core Platform License,44600,Prospecting
+Rhodes PLC,Vikram Singh,Implementation Package,44300,Qualification
+"Riggs, Roman and Rice",Meera Iyer,API Access Tier,44300,Negotiation
+"Young, Caldwell and Lewis",Rohan Verma,API Access Tier,44300,Negotiation
+"Montgomery, Hensley and Ray",Aditi Sharma,API Access Tier,44100,Qualification
+"Miller, Lopez and Larson",Vikram Singh,Implementation Package,44000,Qualification
+Lewis-Porter,Vikram Singh,Core Platform License,43800,Proposal Sent
+"Williams, Miller and Sandoval",Karan Malhotra,Core Platform License,43800,Proposal Sent
+Medina PLC,Priya Nair,API Access Tier,43600,Prospecting
+Conner Group,Sneha Kapoor,Implementation Package,43500,Prospecting
+"Sanchez, Ford and Nelson",Sneha Kapoor,API Access Tier,43500,Proposal Sent
+"Higgins, Moore and Phillips",Aditi Sharma,Implementation Package,43400,Proposal Sent
+Munoz-Roman,Arjun Rao,API Access Tier,43400,Proposal Sent
+"Ellis, Baker and Wright",Karan Malhotra,Core Platform License,42800,Proposal Sent
+Owens-Daniel,Aditi Sharma,Core Platform License,42700,Prospecting
+Cole LLC,Meera Iyer,API Access Tier,42500,Qualification
+Clark PLC,Sneha Kapoor,Core Platform License,42200,Prospecting
+Harrell LLC,Arjun Rao,Core Platform License,42200,Prospecting
+"Lynch, Hernandez and Farmer",Rohan Verma,Core Platform License,42000,Qualification
+Koch-Decker,Arjun Rao,Core Platform License,41800,Prospecting
+Underwood LLC,Arjun Rao,Implementation Package,41800,Prospecting
+"Rodriguez, Figueroa and Sanchez",Vikram Singh,Core Platform License,41600,Negotiation
+Rose-Obrien,Priya Nair,Implementation Package,41600,Proposal Sent
+"Higgins, Moore and Phillips",Sneha Kapoor,Implementation Package,41500,Negotiation
+Allen PLC,Sneha Kapoor,Implementation Package,41300,Negotiation
+James-Ferrell,Vikram Singh,Core Platform License,41100,Qualification
+White-Ford,Arjun Rao,Implementation Package,41000,Negotiation
+Baker-Bowers,Rohan Verma,API Access Tier,40600,Negotiation
+Lewis-Porter,Vikram Singh,API Access Tier,40600,Negotiation
+Donovan-Harris,Rohan Verma,Implementation Package,40500,Prospecting
+"Riggs, Roman and Rice",Priya Nair,API Access Tier,40500,Negotiation
+Chavez Ltd,Meera Iyer,Implementation Package,40400,Negotiation
+Campos Inc,Rohan Verma,Implementation Package,40300,Prospecting
+Clark PLC,Meera Iyer,API Access Tier,40200,Proposal Sent
+"Higgins, Moore and Phillips",Aditi Sharma,Core Platform License,40100,Negotiation
+"Sellers, George and Burns",Rohan Verma,Implementation Package,40100,Qualification
+Horton-Cross,Aditi Sharma,Core Platform License,40000,Negotiation
+"Montgomery, Hensley and Ray",Arjun Rao,Implementation Package,39700,Proposal Sent
+Stanley LLC,Rohan Verma,API Access Tier,39100,Negotiation
+Chavez Ltd,Meera Iyer,API Access Tier,39000,Prospecting
+Davis Inc,Rohan Verma,API Access Tier,38900,Negotiation
+Donovan-Harris,Vikram Singh,Core Platform License,38900,Proposal Sent
+"Valencia, Smith and Le",Sneha Kapoor,Implementation Package,38800,Qualification
+Cole LLC,Meera Iyer,API Access Tier,38600,Proposal Sent
+Lee PLC,Vikram Singh,Implementation Package,38500,Qualification
+"Young, Caldwell and Lewis",Aditi Sharma,Core Platform License,38400,Proposal Sent
+Lewis-Porter,Rohan Verma,Implementation Package,38300,Negotiation
+"Potter, Mack and Peterson",Sneha Kapoor,Core Platform License,38200,Negotiation
+"Rodriguez, Figueroa and Sanchez",Rohan Verma,API Access Tier,38100,Proposal Sent
+Robinson-Bright,Rohan Verma,Implementation Package,37800,Proposal Sent
+Underwood LLC,Vikram Singh,Core Platform License,37800,Negotiation
+Dennis Inc,Arjun Rao,Implementation Package,37700,Negotiation
+White-Ford,Meera Iyer,Implementation Package,37600,Prospecting
+Delacruz Group,Karan Malhotra,Implementation Package,37500,Qualification
+Clark PLC,Karan Malhotra,Implementation Package,37400,Qualification
+"Rodriguez, Figueroa and Sanchez",Vikram Singh,Implementation Package,37300,Negotiation
+Owens-Daniel,Vikram Singh,Core Platform License,37100,Prospecting
+Clark PLC,Rohan Verma,API Access Tier,36900,Negotiation
+"Johnston, Sanchez and Kennedy",Arjun Rao,Core Platform License,36700,Prospecting
+"Martinez, Nielsen and Miller",Meera Iyer,Implementation Package,36600,Negotiation
+Martin Group,Arjun Rao,Core Platform License,36500,Negotiation
+Donovan-Harris,Karan Malhotra,Core Platform License,36300,Prospecting
+Baker-Bowers,Karan Malhotra,API Access Tier,36200,Negotiation
+Owens-Daniel,Vikram Singh,API Access Tier,36200,Prospecting
+Horton-Cross,Meera Iyer,Implementation Package,36100,Proposal Sent
+Burgess-Patterson,Karan Malhotra,Core Platform License,36000,Qualification
+Koch-Decker,Meera Iyer,API Access Tier,35800,Proposal Sent
+Powell PLC,Rohan Verma,Core Platform License,35800,Prospecting
+Underwood LLC,Sneha Kapoor,Implementation Package,35800,Negotiation
+Baker-Bowers,Meera Iyer,Implementation Package,35700,Negotiation
+Baker-Bowers,Sneha Kapoor,Core Platform License,35400,Prospecting
+"Sellers, George and Burns",Arjun Rao,Core Platform License,35400,Qualification
+Shaw-Farrell,Aditi Sharma,Core Platform License,35400,Proposal Sent
+Blake and Sons,Rohan Verma,API Access Tier,35200,Proposal Sent
+Martin Group,Sneha Kapoor,Core Platform License,35200,Qualification
+"Potter, Mack and Peterson",Karan Malhotra,Core Platform License,35200,Prospecting
+"Garcia, Powell and Morgan",Vikram Singh,API Access Tier,35000,Proposal Sent
+"Flowers, Martin and Kelly",Meera Iyer,Implementation Package,34900,Negotiation
+Robinson-Bright,Aditi Sharma,API Access Tier,34800,Proposal Sent
+Baker-Bowers,Vikram Singh,API Access Tier,34600,Prospecting
+Dennis Inc,Meera Iyer,Implementation Package,34600,Prospecting
+Underwood LLC,Sneha Kapoor,Implementation Package,34500,Qualification
+Chavez Ltd,Aditi Sharma,API Access Tier,34400,Qualification
+White-Ford,Arjun Rao,API Access Tier,34100,Qualification
+"Rodriguez, Figueroa and Sanchez",Vikram Singh,Implementation Package,33900,Prospecting
+Horton-Cross,Rohan Verma,Core Platform License,33600,Qualification
+Martin Group,Priya Nair,API Access Tier,33100,Prospecting
+Medina PLC,Vikram Singh,Training & Enablement,33100,Qualification
+Conner Group,Rohan Verma,API Access Tier,32800,Prospecting
+"Sanchez, Ford and Nelson",Karan Malhotra,API Access Tier,32800,Proposal Sent
+Robinson-Bright,Karan Malhotra,API Access Tier,32700,Prospecting
+James-Ferrell,Meera Iyer,API Access Tier,32400,Negotiation
+"Valencia, Smith and Le",Meera Iyer,Core Platform License,32400,Negotiation
+Blake and Sons,Vikram Singh,Core Platform License,32300,Negotiation
+Powell PLC,Sneha Kapoor,Implementation Package,32300,Qualification
+Ramirez-Lewis,Priya Nair,Implementation Package,32300,Negotiation
+"Sanchez, Ford and Nelson",Aditi Sharma,API Access Tier,32300,Proposal Sent
+"Santos, Kim and Holmes",Priya Nair,Implementation Package,32300,Proposal Sent
+White-Ford,Arjun Rao,Implementation Package,32300,Prospecting
+Blake and Sons,Vikram Singh,API Access Tier,32100,Qualification
+"Johnson, Gonzalez and Santos",Arjun Rao,Implementation Package,32100,Prospecting
+"Riggs, Roman and Rice",Aditi Sharma,Implementation Package,31900,Proposal Sent
+"Campos, Vaughn and Marquez",Sneha Kapoor,Implementation Package,31800,Qualification
+Koch-Decker,Vikram Singh,Implementation Package,31600,Proposal Sent
+"Kidd, Huff and Novak",Priya Nair,Core Platform License,31500,Qualification
+Lee PLC,Meera Iyer,API Access Tier,31500,Proposal Sent
+Ibarra-Suarez,Rohan Verma,Implementation Package,31400,Prospecting
+Blake and Sons,Sneha Kapoor,Implementation Package,31200,Negotiation
+Brown Inc,Sneha Kapoor,Core Platform License,31100,Negotiation
+Shaw-Farrell,Meera Iyer,Implementation Package,30800,Negotiation
+Campos Inc,Priya Nair,API Access Tier,30700,Proposal Sent
+"Young, Caldwell and Lewis",Aditi Sharma,Core Platform License,30600,Negotiation
+Davis Group,Rohan Verma,API Access Tier,30500,Negotiation
+"Young, Caldwell and Lewis",Arjun Rao,Implementation Package,30500,Negotiation
+Lee PLC,Karan Malhotra,Core Platform License,30400,Proposal Sent
+Chapman Inc,Sneha Kapoor,Implementation Package,30300,Proposal Sent
+Medina PLC,Karan Malhotra,Implementation Package,30200,Proposal Sent
+Stanley LLC,Sneha Kapoor,Implementation Package,30200,Prospecting
+Ramirez-Lewis,Priya Nair,Implementation Package,30100,Proposal Sent
+"Higgins, Moore and Phillips",Sneha Kapoor,API Access Tier,30000,Negotiation
+Medina PLC,Meera Iyer,Implementation Package,30000,Prospecting
+"Sellers, George and Burns",Karan Malhotra,Implementation Package,30000,Qualification
+Kim PLC,Arjun Rao,Implementation Package,29700,Proposal Sent
+Blake and Sons,Priya Nair,Implementation Package,29300,Negotiation
+Ibarra-Suarez,Rohan Verma,Implementation Package,29300,Proposal Sent
+Munoz-Roman,Rohan Verma,API Access Tier,29200,Prospecting
+"Potter, Mack and Peterson",Sneha Kapoor,Core Platform License,29100,Proposal Sent
+Burgess-Patterson,Priya Nair,API Access Tier,29000,Prospecting
+Lee PLC,Meera Iyer,Core Platform License,28900,Proposal Sent
+"Fitzgerald, Brown and Edwards",Vikram Singh,Core Platform License,28800,Negotiation
+Ibarra-Suarez,Arjun Rao,Core Platform License,28800,Proposal Sent
+Rose-Obrien,Karan Malhotra,Core Platform License,28700,Proposal Sent
+Underwood LLC,Karan Malhotra,API Access Tier,28700,Prospecting
+Allen PLC,Sneha Kapoor,Implementation Package,28300,Prospecting
+Baker-Bowers,Sneha Kapoor,API Access Tier,28000,Prospecting
+Kim PLC,Aditi Sharma,Analytics Add-on,27900,Prospecting
+Brown Inc,Karan Malhotra,Analytics Add-on,27600,Qualification
+Cole LLC,Arjun Rao,Analytics Add-on,27600,Prospecting
+Kim PLC,Meera Iyer,Analytics Add-on,27600,Proposal Sent
+Chapman Inc,Arjun Rao,Core Platform License,27500,Prospecting
+Clark PLC,Vikram Singh,Core Platform License,27500,Proposal Sent
+"Johnston, Sanchez and Kennedy",Rohan Verma,Analytics Add-on,27500,Prospecting
+"Hawkins, Cohen and Cameron",Priya Nair,Core Platform License,27300,Qualification
+Horton-Cross,Arjun Rao,Analytics Add-on,27300,Prospecting
+Horton-Cross,Sneha Kapoor,Analytics Add-on,27200,Proposal Sent
+Donovan-Harris,Priya Nair,Analytics Add-on,27000,Proposal Sent
+Ramirez-Lewis,Priya Nair,Analytics Add-on,27000,Qualification
+Martin Group,Aditi Sharma,Analytics Add-on,26900,Prospecting
+James-Ferrell,Vikram Singh,Analytics Add-on,26600,Qualification
+"Flowers, Martin and Kelly",Rohan Verma,Analytics Add-on,26500,Qualification
+Martin Group,Rohan Verma,Analytics Add-on,26500,Negotiation
+Baker-Bowers,Meera Iyer,Core Platform License,26200,Proposal Sent
+"Fitzgerald, Brown and Edwards",Arjun Rao,Implementation Package,26000,Qualification
+Rhodes PLC,Vikram Singh,Implementation Package,25800,Prospecting
+Conner Group,Sneha Kapoor,Implementation Package,25700,Proposal Sent
+Barrera-Martin,Karan Malhotra,Core Platform License,25600,Proposal Sent
+Medina PLC,Rohan Verma,Core Platform License,25500,Prospecting
+Rose-Obrien,Meera Iyer,Analytics Add-on,25500,Qualification
+Bryant-Hickman,Sneha Kapoor,Analytics Add-on,25400,Prospecting
+Clark PLC,Aditi Sharma,Analytics Add-on,25400,Prospecting
+Kim PLC,Rohan Verma,Analytics Add-on,25400,Proposal Sent
+Powell PLC,Rohan Verma,Core Platform License,25400,Negotiation
+Blake and Sons,Sneha Kapoor,Core Platform License,25300,Proposal Sent
+Robinson-Bright,Priya Nair,Implementation Package,25300,Negotiation
+"Kidd, Huff and Novak",Karan Malhotra,Implementation Package,25200,Qualification
+"Sellers, George and Burns",Rohan Verma,Core Platform License,25000,Qualification
+Rose-Obrien,Meera Iyer,Analytics Add-on,24800,Negotiation
+"Flowers, Martin and Kelly",Aditi Sharma,API Access Tier,24500,Proposal Sent
+Ramos PLC,Rohan Verma,Core Platform License,24500,Negotiation
+Underwood LLC,Rohan Verma,Analytics Add-on,24400,Qualification
+Campos Inc,Meera Iyer,Implementation Package,24300,Qualification
+"Flowers, Martin and Kelly",Arjun Rao,Analytics Add-on,24300,Qualification
+"Rodriguez, Figueroa and Sanchez",Arjun Rao,Core Platform License,24300,Proposal Sent
+Cole LLC,Sneha Kapoor,Analytics Add-on,24200,Proposal Sent
+Lee PLC,Arjun Rao,Implementation Package,24200,Qualification
+"Johnston, Sanchez and Kennedy",Sneha Kapoor,Core Platform License,24100,Negotiation
+"Miller, Lopez and Larson",Arjun Rao,API Access Tier,24100,Qualification
+Powell PLC,Arjun Rao,API Access Tier,24100,Prospecting
+"Martinez, Nielsen and Miller",Aditi Sharma,Analytics Add-on,24000,Negotiation
+Harrell LLC,Priya Nair,API Access Tier,23900,Negotiation
+Owens-Daniel,Karan Malhotra,Analytics Add-on,23700,Qualification
+Delacruz Group,Meera Iyer,Analytics Add-on,23600,Proposal Sent
+Rhodes PLC,Arjun Rao,Analytics Add-on,23600,Prospecting
+"Miller, Lopez and Larson",Vikram Singh,Analytics Add-on,23400,Proposal Sent
+"Riggs, Roman and Rice",Rohan Verma,Core Platform License,23300,Negotiation
+"Campos, Vaughn and Marquez",Rohan Verma,Analytics Add-on,23200,Qualification
+Owens-Daniel,Arjun Rao,Implementation Package,23200,Negotiation
+James-Ferrell,Priya Nair,Analytics Add-on,23100,Qualification
+"Johnston, Sanchez and Kennedy",Vikram Singh,Core Platform License,23100,Negotiation
+"Montgomery, Hensley and Ray",Arjun Rao,Training & Enablement,23100,Qualification
+Chavez Ltd,Meera Iyer,API Access Tier,23000,Proposal Sent
+Horton-Cross,Karan Malhotra,API Access Tier,23000,Negotiation
+Bryant-Hickman,Vikram Singh,API Access Tier,22900,Prospecting
+White-Ford,Sneha Kapoor,Analytics Add-on,22900,Qualification
+Davis Inc,Rohan Verma,Analytics Add-on,22800,Prospecting
+Ellis PLC,Arjun Rao,Analytics Add-on,22700,Prospecting
+Munoz-Roman,Karan Malhotra,Analytics Add-on,22700,Qualification
+Chavez Ltd,Aditi Sharma,Core Platform License,22600,Qualification
+Barrera-Martin,Karan Malhotra,Analytics Add-on,22200,Negotiation
+"Martinez, Nielsen and Miller",Arjun Rao,API Access Tier,22200,Proposal Sent
+Chapman Inc,Vikram Singh,Analytics Add-on,22000,Negotiation
+"Cannon, Anderson and Alvarez",Aditi Sharma,API Access Tier,21800,Qualification
+Cole LLC,Meera Iyer,Implementation Package,21800,Prospecting
+James-Ferrell,Vikram Singh,Implementation Package,21800,Qualification
+Conner Group,Rohan Verma,Core Platform License,21700,Prospecting
+"Sellers, George and Burns",Aditi Sharma,Implementation Package,21600,Negotiation
+Donovan-Harris,Aditi Sharma,Analytics Add-on,21500,Negotiation
+Martin Group,Karan Malhotra,Analytics Add-on,21500,Proposal Sent
+"Kidd, Huff and Novak",Aditi Sharma,Implementation Package,21200,Negotiation
+"Montgomery, Hensley and Ray",Rohan Verma,Analytics Add-on,21200,Prospecting
+"Sanchez, Ford and Nelson",Meera Iyer,API Access Tier,21200,Negotiation
+Clark PLC,Karan Malhotra,Analytics Add-on,21100,Prospecting
+Baker and Sons,Priya Nair,Analytics Add-on,21000,Proposal Sent
+Chavez Ltd,Meera Iyer,Core Platform License,21000,Prospecting
+"Garcia, Powell and Morgan",Karan Malhotra,Implementation Package,20900,Negotiation
+Clark PLC,Sneha Kapoor,Implementation Package,20700,Negotiation
+Koch-Decker,Priya Nair,Analytics Add-on,20700,Negotiation
+Harrell LLC,Rohan Verma,API Access Tier,20600,Prospecting
+Chapman Inc,Meera Iyer,Analytics Add-on,20400,Negotiation
+"Johnson, Gonzalez and Santos",Priya Nair,Analytics Add-on,20400,Proposal Sent
+"Santos, Kim and Holmes",Karan Malhotra,Analytics Add-on,20400,Prospecting
+Dennis Inc,Meera Iyer,Implementation Package,20300,Qualification
+"Potter, Mack and Peterson",Vikram Singh,Premium Support,20100,Prospecting
+Ramirez-Lewis,Meera Iyer,Analytics Add-on,20100,Proposal Sent
+"Garcia, Powell and Morgan",Karan Malhotra,Implementation Package,19800,Proposal Sent
+"Valencia, Smith and Le",Rohan Verma,Implementation Package,19700,Negotiation
+Kim PLC,Karan Malhotra,Core Platform License,19600,Prospecting
+Conner Group,Rohan Verma,Analytics Add-on,19500,Proposal Sent
+"Valencia, Smith and Le",Meera Iyer,Analytics Add-on,19400,Qualification
+Clark PLC,Priya Nair,Analytics Add-on,19300,Prospecting
+Chapman Inc,Arjun Rao,Analytics Add-on,19200,Proposal Sent
+Clark PLC,Sneha Kapoor,API Access Tier,19200,Qualification
+"Garcia, Powell and Morgan",Priya Nair,Implementation Package,19200,Proposal Sent
+Ellis PLC,Rohan Verma,Analytics Add-on,18900,Qualification
+Martin Group,Aditi Sharma,Premium Support,18800,Negotiation
+Chavez Ltd,Rohan Verma,Analytics Add-on,18500,Proposal Sent
+Clark PLC,Sneha Kapoor,Core Platform License,18400,Qualification
+"Rodriguez, Figueroa and Sanchez",Meera Iyer,Implementation Package,18100,Qualification
+"Williams, Miller and Sandoval",Rohan Verma,Core Platform License,18100,Prospecting
+Chapman Inc,Sneha Kapoor,Analytics Add-on,17900,Proposal Sent
+"Higgins, Moore and Phillips",Karan Malhotra,Analytics Add-on,17900,Negotiation
+"Zuniga, Wong and Lynch",Sneha Kapoor,Core Platform License,17900,Proposal Sent
+Powell PLC,Karan Malhotra,Analytics Add-on,17800,Negotiation
+Blake and Sons,Sneha Kapoor,Implementation Package,17700,Prospecting
+Davis Group,Sneha Kapoor,API Access Tier,17700,Qualification
+"Flowers, Martin and Kelly",Arjun Rao,API Access Tier,17700,Qualification
+"Young, Caldwell and Lewis",Priya Nair,Implementation Package,17700,Qualification
+Davis Group,Arjun Rao,Implementation Package,17500,Negotiation
+"Hawkins, Cohen and Cameron",Rohan Verma,Analytics Add-on,17400,Qualification
+"Lynch, Hernandez and Farmer",Meera Iyer,Training & Enablement,17400,Proposal Sent
+Rose-Obrien,Priya Nair,Analytics Add-on,17400,Proposal Sent
+"Sellers, George and Burns",Sneha Kapoor,Training & Enablement,17400,Proposal Sent
+Stanley LLC,Rohan Verma,Training & Enablement,17300,Negotiation
+Stanton-Gill,Karan Malhotra,Core Platform License,17300,Negotiation
+Davis Inc,Karan Malhotra,API Access Tier,17200,Qualification
+Ellis PLC,Rohan Verma,Training & Enablement,17200,Prospecting
+"Johnson, Gonzalez and Santos",Arjun Rao,Analytics Add-on,17200,Prospecting
+"Williams, Miller and Sandoval",Sneha Kapoor,Implementation Package,17200,Proposal Sent
+"Brown, Jones and Johnson",Rohan Verma,Premium Support,17100,Prospecting
+Campos Inc,Meera Iyer,Analytics Add-on,17100,Qualification
+"Fitzgerald, Brown and Edwards",Arjun Rao,Premium Support,17100,Prospecting
+"Flowers, Martin and Kelly",Karan Malhotra,Training & Enablement,17100,Negotiation
+"Higgins, Moore and Phillips",Rohan Verma,Analytics Add-on,17100,Negotiation
+Cole LLC,Priya Nair,Premium Support,17000,Qualification
+Clark PLC,Priya Nair,Training & Enablement,16900,Proposal Sent
+Davis Inc,Rohan Verma,Training & Enablement,16900,Qualification
+Lee PLC,Aditi Sharma,Training & Enablement,16900,Prospecting
+"Santos, Kim and Holmes",Rohan Verma,Training & Enablement,16900,Prospecting
+"Valencia, Smith and Le",Meera Iyer,Implementation Package,16900,Qualification
+"Ellis, Baker and Wright",Meera Iyer,Premium Support,16800,Qualification
+"Fitzgerald, Brown and Edwards",Aditi Sharma,Core Platform License,16800,Negotiation
+Horton-Cross,Rohan Verma,Implementation Package,16800,Qualification
+"Martinez, Nielsen and Miller",Priya Nair,API Access Tier,16800,Proposal Sent
+Stanley LLC,Meera Iyer,Analytics Add-on,16800,Qualification
+"Williams, Miller and Sandoval",Vikram Singh,Analytics Add-on,16800,Qualification
+Burgess-Patterson,Rohan Verma,Premium Support,16700,Proposal Sent
+Campos Inc,Priya Nair,Core Platform License,16700,Prospecting
+Dennis Inc,Arjun Rao,Training & Enablement,16700,Proposal Sent
+"Lynch, Hernandez and Farmer",Arjun Rao,Implementation Package,16700,Negotiation
+Ramirez-Lewis,Priya Nair,Training & Enablement,16700,Proposal Sent
+"Young, Caldwell and Lewis",Sneha Kapoor,Premium Support,16700,Qualification
+Delacruz Group,Aditi Sharma,Training & Enablement,16600,Proposal Sent
+"Miller, Lopez and Larson",Priya Nair,Training & Enablement,16600,Negotiation
+"Sellers, George and Burns",Arjun Rao,Implementation Package,16600,Negotiation
+"Young, Caldwell and Lewis",Aditi Sharma,Analytics Add-on,16600,Qualification
+"Campos, Vaughn and Marquez",Aditi Sharma,Premium Support,16400,Proposal Sent
+Chavez Ltd,Vikram Singh,Implementation Package,16400,Proposal Sent
+Ellis PLC,Rohan Verma,Training & Enablement,16400,Proposal Sent
+"Fitzgerald, Brown and Edwards",Sneha Kapoor,Training & Enablement,16400,Prospecting
+"Garcia, Powell and Morgan",Rohan Verma,Training & Enablement,16400,Proposal Sent
+Rhodes PLC,Vikram Singh,Analytics Add-on,16400,Proposal Sent
+"Young, Caldwell and Lewis",Vikram Singh,Training & Enablement,16400,Prospecting
+"Hawkins, Cohen and Cameron",Aditi Sharma,Analytics Add-on,16300,Prospecting
+Ibarra-Suarez,Arjun Rao,Premium Support,16300,Prospecting
+Kim PLC,Karan Malhotra,Implementation Package,16300,Qualification
+"Riggs, Roman and Rice",Aditi Sharma,Training & Enablement,16300,Proposal Sent
+Harrell LLC,Priya Nair,Analytics Add-on,16200,Prospecting
+Ramirez-Lewis,Karan Malhotra,Premium Support,16200,Proposal Sent
+Dennis Inc,Aditi Sharma,Implementation Package,16100,Qualification
+Donovan-Harris,Priya Nair,Premium Support,16100,Proposal Sent
+"Potter, Mack and Peterson",Rohan Verma,Training & Enablement,16100,Qualification
+Conner Group,Priya Nair,Premium Support,16000,Negotiation
+"Montgomery, Hensley and Ray",Aditi Sharma,Analytics Add-on,16000,Proposal Sent
+Powell PLC,Arjun Rao,Analytics Add-on,15900,Negotiation
+Rhodes PLC,Priya Nair,Analytics Add-on,15900,Qualification
+"Riggs, Roman and Rice",Vikram Singh,Training & Enablement,15900,Qualification
+Harrell LLC,Karan Malhotra,Analytics Add-on,15800,Prospecting
+Rose-Obrien,Aditi Sharma,Training & Enablement,15800,Proposal Sent
+"Young, Caldwell and Lewis",Rohan Verma,Implementation Package,15700,Proposal Sent
+"Cannon, Anderson and Alvarez",Priya Nair,Training & Enablement,15600,Proposal Sent
+"Martinez, Nielsen and Miller",Sneha Kapoor,Core Platform License,15600,Negotiation
+Brown Inc,Sneha Kapoor,Training & Enablement,15500,Prospecting
+Underwood LLC,Karan Malhotra,Premium Support,15500,Prospecting
+Brown Inc,Rohan Verma,Analytics Add-on,15400,Negotiation
+Davis Inc,Karan Malhotra,Premium Support,15400,Proposal Sent
+Ramirez-Lewis,Aditi Sharma,Training & Enablement,15200,Negotiation
+White-Ford,Meera Iyer,Premium Support,15100,Proposal Sent
+Johnson-Davis,Rohan Verma,Training & Enablement,15000,Qualification
+Medina PLC,Sneha Kapoor,Implementation Package,15000,Prospecting
+Clark PLC,Vikram Singh,Analytics Add-on,14900,Qualification
+Horton-Cross,Priya Nair,Training & Enablement,14900,Prospecting
+"Martinez, Nielsen and Miller",Karan Malhotra,Training & Enablement,14900,Negotiation
+Ramos PLC,Arjun Rao,Implementation Package,14900,Negotiation
+"Williams, Miller and Sandoval",Aditi Sharma,Premium Support,14900,Negotiation
+"Fitzgerald, Brown and Edwards",Meera Iyer,Analytics Add-on,14700,Prospecting
+Ibarra-Suarez,Meera Iyer,Implementation Package,14700,Proposal Sent
+"Lynch, Hernandez and Farmer",Karan Malhotra,Premium Support,14700,Proposal Sent
+Powell PLC,Rohan Verma,Training & Enablement,14700,Prospecting
+Underwood LLC,Meera Iyer,Training & Enablement,14700,Proposal Sent
+"Garcia, Powell and Morgan",Priya Nair,Premium Support,14600,Qualification
+Shaw-Farrell,Rohan Verma,Training & Enablement,14600,Prospecting
+"Lynch, Hernandez and Farmer",Priya Nair,Training & Enablement,14500,Proposal Sent
+Medina PLC,Rohan Verma,Core Platform License,14500,Negotiation
+"Potter, Mack and Peterson",Vikram Singh,Training & Enablement,14500,Prospecting
+Ramos PLC,Arjun Rao,Premium Support,14500,Qualification
+"Williams, Miller and Sandoval",Karan Malhotra,Training & Enablement,14500,Proposal Sent
+Burgess-Patterson,Sneha Kapoor,Analytics Add-on,14400,Prospecting
+Campos Inc,Priya Nair,Premium Support,14400,Proposal Sent
+Conner Group,Karan Malhotra,Premium Support,14400,Proposal Sent
+"Zuniga, Wong and Lynch",Sneha Kapoor,Training & Enablement,14400,Qualification
+Brown Inc,Aditi Sharma,Core Platform License,14300,Qualification
+Koch-Decker,Arjun Rao,Implementation Package,14200,Negotiation
+"Martinez, Nielsen and Miller",Vikram Singh,Implementation Package,14200,Qualification
+Davis Group,Meera Iyer,Core Platform License,14000,Proposal Sent
+Owens-Daniel,Aditi Sharma,Training & Enablement,14000,Negotiation
+Delacruz Group,Priya Nair,Training & Enablement,13900,Qualification
+Koch-Decker,Vikram Singh,Training & Enablement,13900,Negotiation
+Stanley LLC,Arjun Rao,Implementation Package,13900,Prospecting
+"Cannon, Anderson and Alvarez",Karan Malhotra,Implementation Package,13800,Negotiation
+Ibarra-Suarez,Vikram Singh,Analytics Add-on,13800,Prospecting
+"Montgomery, Hensley and Ray",Aditi Sharma,Core Platform License,13800,Negotiation
+"Valencia, Smith and Le",Vikram Singh,Analytics Add-on,13800,Negotiation
+Medina PLC,Priya Nair,Analytics Add-on,13700,Proposal Sent
+"Riggs, Roman and Rice",Sneha Kapoor,Implementation Package,13700,Proposal Sent
+Delacruz Group,Sneha Kapoor,Premium Support,13600,Proposal Sent
+Medina PLC,Karan Malhotra,Core Platform License,13600,Qualification
+Ramirez-Lewis,Meera Iyer,Premium Support,13600,Qualification
+Allen PLC,Aditi Sharma,Training & Enablement,13500,Negotiation
+"Brown, Jones and Johnson",Priya Nair,Premium Support,13500,Qualification
+Lee PLC,Aditi Sharma,Premium Support,13500,Qualification
+Powell PLC,Vikram Singh,Implementation Package,13500,Prospecting
+"Riggs, Roman and Rice",Aditi Sharma,Training & Enablement,13500,Qualification
+Rose-Obrien,Vikram Singh,Training & Enablement,13500,Prospecting
+Chapman Inc,Meera Iyer,Analytics Add-on,13400,Qualification
+"Garcia, Powell and Morgan",Aditi Sharma,Training & Enablement,13400,Proposal Sent
+"Lynch, Hernandez and Farmer",Priya Nair,Implementation Package,13400,Prospecting
+Ramos PLC,Priya Nair,Premium Support,13300,Prospecting
+Clark PLC,Vikram Singh,Premium Support,13200,Qualification
+"Martinez, Nielsen and Miller",Meera Iyer,Training & Enablement,13200,Negotiation
+Rhodes PLC,Vikram Singh,Premium Support,13200,Negotiation
+Brown Inc,Arjun Rao,Implementation Package,13100,Negotiation
+Shaw-Farrell,Meera Iyer,Training & Enablement,13100,Prospecting
+Baker and Sons,Vikram Singh,Core Platform License,13000,Proposal Sent
+Burgess-Patterson,Aditi Sharma,Premium Support,13000,Proposal Sent
+Rhodes PLC,Meera Iyer,Core Platform License,13000,Negotiation
+Medina PLC,Priya Nair,Core Platform License,12900,Proposal Sent
+"Potter, Mack and Peterson",Vikram Singh,Premium Support,12900,Negotiation
+"Rodriguez, Figueroa and Sanchez",Karan Malhotra,Premium Support,12900,Proposal Sent
+Stanley LLC,Priya Nair,Training & Enablement,12900,Negotiation
+Allen PLC,Rohan Verma,Core Platform License,12800,Negotiation
+Underwood LLC,Arjun Rao,Implementation Package,12800,Negotiation
+"Brown, Jones and Johnson",Meera Iyer,Training & Enablement,12700,Prospecting
+"Campos, Vaughn and Marquez",Arjun Rao,Premium Support,12700,Negotiation
+James-Ferrell,Meera Iyer,Premium Support,12700,Qualification
+Baker and Sons,Rohan Verma,Analytics Add-on,12600,Proposal Sent
+Bryant-Hickman,Priya Nair,Analytics Add-on,12600,Proposal Sent
+"Valencia, Smith and Le",Meera Iyer,Training & Enablement,12500,Prospecting
+"Fitzgerald, Brown and Edwards",Priya Nair,Training & Enablement,12400,Prospecting
+Munoz-Roman,Arjun Rao,Core Platform License,12400,Prospecting
+Bryant-Hickman,Sneha Kapoor,Analytics Add-on,12300,Proposal Sent
+Conner Group,Priya Nair,Analytics Add-on,12300,Qualification
+Delacruz Group,Aditi Sharma,Analytics Add-on,12300,Negotiation
+Horton-Cross,Aditi Sharma,Implementation Package,12300,Prospecting
+"Johnson, Gonzalez and Santos",Arjun Rao,Analytics Add-on,12300,Proposal Sent
+"Sanchez, Ford and Nelson",Arjun Rao,Implementation Package,12300,Negotiation
+Brown Inc,Arjun Rao,Premium Support,12200,Proposal Sent
+Davis Inc,Priya Nair,Premium Support,12200,Qualification
+Delacruz Group,Karan Malhotra,Analytics Add-on,12200,Proposal Sent
+Ibarra-Suarez,Sneha Kapoor,Premium Support,12200,Proposal Sent
+"Johnson, Gonzalez and Santos",Sneha Kapoor,Implementation Package,12200,Qualification
+Cole LLC,Aditi Sharma,Analytics Add-on,12100,Qualification
+"Zuniga, Wong and Lynch",Arjun Rao,Training & Enablement,12100,Negotiation
+Allen PLC,Rohan Verma,Core Platform License,12000,Qualification
+Lee PLC,Meera Iyer,Training & Enablement,12000,Proposal Sent
+James-Ferrell,Aditi Sharma,Analytics Add-on,11900,Negotiation
+Ramos PLC,Aditi Sharma,Premium Support,11900,Proposal Sent
+Burgess-Patterson,Vikram Singh,Training & Enablement,11500,Negotiation
+Davis Group,Aditi Sharma,Training & Enablement,11500,Prospecting
+Davis Inc,Priya Nair,Analytics Add-on,11500,Negotiation
+"Lynch, Hernandez and Farmer",Karan Malhotra,Training & Enablement,11500,Proposal Sent
+"Higgins, Moore and Phillips",Rohan Verma,Training & Enablement,11400,Prospecting
+Delacruz Group,Meera Iyer,Training & Enablement,11300,Qualification
+Kim PLC,Meera Iyer,Premium Support,11200,Qualification
+"Cannon, Anderson and Alvarez",Rohan Verma,Analytics Add-on,11100,Qualification
+Robinson-Bright,Sneha Kapoor,Training & Enablement,11000,Prospecting
+"Riggs, Roman and Rice",Karan Malhotra,Training & Enablement,10900,Prospecting
+"Sanchez, Ford and Nelson",Priya Nair,Analytics Add-on,10900,Prospecting
+"Zuniga, Wong and Lynch",Sneha Kapoor,Premium Support,10900,Proposal Sent
+Brown Inc,Arjun Rao,Training & Enablement,10800,Proposal Sent
+Donovan-Harris,Vikram Singh,Training & Enablement,10800,Negotiation
+Ellis PLC,Meera Iyer,Premium Support,10800,Proposal Sent
+"Higgins, Moore and Phillips",Aditi Sharma,Premium Support,10800,Proposal Sent
+"Montgomery, Hensley and Ray",Priya Nair,Analytics Add-on,10800,Prospecting
+"Campos, Vaughn and Marquez",Sneha Kapoor,Premium Support,10700,Prospecting
+Davis Inc,Aditi Sharma,Premium Support,10600,Qualification
+White-Ford,Karan Malhotra,Premium Support,10600,Proposal Sent
+"Sellers, George and Burns",Meera Iyer,Premium Support,10500,Prospecting
+Chavez Ltd,Karan Malhotra,Premium Support,10400,Prospecting
+Stanton-Gill,Aditi Sharma,Training & Enablement,10400,Qualification
+White-Ford,Meera Iyer,Premium Support,10400,Negotiation
+"Montgomery, Hensley and Ray",Meera Iyer,Training & Enablement,10300,Proposal Sent
+Campos Inc,Meera Iyer,Training & Enablement,10100,Qualification
+Ellis PLC,Vikram Singh,Analytics Add-on,10000,Prospecting
+Powell PLC,Karan Malhotra,Analytics Add-on,10000,Qualification
+Barrera-Martin,Priya Nair,Premium Support,9900,Prospecting
+"Cannon, Anderson and Alvarez",Meera Iyer,Analytics Add-on,9900,Qualification
+Ibarra-Suarez,Karan Malhotra,Training & Enablement,9800,Prospecting
+Bryant-Hickman,Sneha Kapoor,Training & Enablement,9700,Negotiation
+"Cannon, Anderson and Alvarez",Priya Nair,Training & Enablement,9700,Qualification
+Cole LLC,Arjun Rao,Training & Enablement,9700,Qualification
+Davis Group,Vikram Singh,Premium Support,9700,Proposal Sent
+Powell PLC,Sneha Kapoor,Training & Enablement,9700,Proposal Sent
+"Williams, Miller and Sandoval",Sneha Kapoor,Premium Support,9700,Prospecting
+Koch-Decker,Priya Nair,Training & Enablement,9600,Proposal Sent
+Munoz-Roman,Sneha Kapoor,Training & Enablement,9600,Proposal Sent
+Owens-Daniel,Aditi Sharma,Premium Support,9600,Negotiation
+"Williams, Miller and Sandoval",Arjun Rao,Analytics Add-on,9600,Negotiation
+Brown Inc,Sneha Kapoor,Training & Enablement,9500,Proposal Sent
+Munoz-Roman,Rohan Verma,Premium Support,9300,Negotiation
+Stanton-Gill,Karan Malhotra,Analytics Add-on,9300,Negotiation
+Brown Inc,Aditi Sharma,Training & Enablement,9200,Proposal Sent
+Owens-Daniel,Vikram Singh,Analytics Add-on,9200,Negotiation
+Rhodes PLC,Arjun Rao,Training & Enablement,9200,Prospecting
+Underwood LLC,Aditi Sharma,Training & Enablement,9200,Negotiation
+"Fitzgerald, Brown and Edwards",Karan Malhotra,Training & Enablement,9100,Proposal Sent
+"Kidd, Huff and Novak",Rohan Verma,Training & Enablement,9100,Prospecting
+Powell PLC,Aditi Sharma,Premium Support,9100,Negotiation
+"Martinez, Nielsen and Miller",Vikram Singh,Analytics Add-on,9000,Prospecting
+Baker-Bowers,Vikram Singh,Training & Enablement,8900,Qualification
+Davis Group,Arjun Rao,Training & Enablement,8900,Prospecting
+"Flowers, Martin and Kelly",Meera Iyer,Premium Support,8900,Qualification
+"Sellers, George and Burns",Aditi Sharma,Training & Enablement,8900,Qualification
+Baker and Sons,Priya Nair,Training & Enablement,8800,Negotiation
+Donovan-Harris,Sneha Kapoor,Training & Enablement,8800,Qualification
+Barrera-Martin,Priya Nair,Premium Support,8600,Proposal Sent
+Ramirez-Lewis,Sneha Kapoor,Premium Support,8600,Prospecting
+Delacruz Group,Arjun Rao,Training & Enablement,8500,Qualification
+Baker-Bowers,Arjun Rao,Training & Enablement,8300,Qualification
+Johnson-Davis,Arjun Rao,Analytics Add-on,8300,Proposal Sent
+"Hawkins, Cohen and Cameron",Karan Malhotra,Training & Enablement,8200,Qualification
+"Miller, Lopez and Larson",Rohan Verma,Training & Enablement,8200,Proposal Sent
+Munoz-Roman,Priya Nair,Training & Enablement,8100,Negotiation
+Rhodes PLC,Priya Nair,Training & Enablement,8100,Negotiation
+Blake and Sons,Karan Malhotra,Training & Enablement,8000,Negotiation
+"Martinez, Nielsen and Miller",Karan Malhotra,Analytics Add-on,7900,Negotiation
+"Valencia, Smith and Le",Vikram Singh,Premium Support,7900,Proposal Sent
+"Zuniga, Wong and Lynch",Arjun Rao,Training & Enablement,7900,Prospecting
+Brown Inc,Aditi Sharma,Analytics Add-on,7800,Proposal Sent
+"Montgomery, Hensley and Ray",Rohan Verma,Analytics Add-on,7800,Qualification
+"Montgomery, Hensley and Ray",Sneha Kapoor,Training & Enablement,7800,Proposal Sent
+Powell PLC,Aditi Sharma,Training & Enablement,7800,Qualification
+Harrell LLC,Rohan Verma,Analytics Add-on,7700,Prospecting
+Robinson-Bright,Sneha Kapoor,Training & Enablement,7700,Negotiation
+Stanton-Gill,Arjun Rao,Premium Support,7700,Negotiation
+Powell PLC,Meera Iyer,Training & Enablement,7500,Prospecting
+"Williams, Miller and Sandoval",Aditi Sharma,Premium Support,7500,Qualification
+Baker and Sons,Rohan Verma,Training & Enablement,7400,Qualification
+"Young, Caldwell and Lewis",Priya Nair,Analytics Add-on,7400,Negotiation
+Blake and Sons,Sneha Kapoor,Premium Support,7300,Proposal Sent
+Ramos PLC,Rohan Verma,Premium Support,7300,Prospecting
+"Hawkins, Cohen and Cameron",Arjun Rao,Premium Support,7200,Proposal Sent
+Martin Group,Arjun Rao,Training & Enablement,7200,Negotiation
+Rose-Obrien,Karan Malhotra,Training & Enablement,7200,Proposal Sent
+Conner Group,Vikram Singh,Training & Enablement,7100,Qualification
+Underwood LLC,Aditi Sharma,Analytics Add-on,7100,Qualification
+"Zuniga, Wong and Lynch",Priya Nair,Training & Enablement,7000,Prospecting
+Martin Group,Meera Iyer,Analytics Add-on,6900,Negotiation
+Martin Group,Rohan Verma,Premium Support,6900,Negotiation
+Rhodes PLC,Priya Nair,Premium Support,6900,Prospecting
+Baker and Sons,Vikram Singh,Premium Support,6800,Prospecting
+Johnson-Davis,Meera Iyer,Training & Enablement,6800,Prospecting
+Delacruz Group,Sneha Kapoor,Premium Support,6700,Qualification
+Rhodes PLC,Sneha Kapoor,Analytics Add-on,6700,Prospecting
+"Campos, Vaughn and Marquez",Karan Malhotra,Analytics Add-on,6600,Qualification
+"Higgins, Moore and Phillips",Priya Nair,Premium Support,6600,Negotiation
+Owens-Daniel,Aditi Sharma,Training & Enablement,6600,Prospecting
+Ramos PLC,Vikram Singh,Analytics Add-on,6600,Prospecting
+"Riggs, Roman and Rice",Rohan Verma,Premium Support,6600,Negotiation
+Allen PLC,Aditi Sharma,Analytics Add-on,6500,Proposal Sent
+Ramirez-Lewis,Karan Malhotra,Training & Enablement,6500,Proposal Sent
+Harrell LLC,Karan Malhotra,Training & Enablement,6200,Negotiation
+"Young, Caldwell and Lewis",Sneha Kapoor,Training & Enablement,6200,Prospecting
+Chavez Ltd,Arjun Rao,Premium Support,6100,Negotiation
+Martin Group,Sneha Kapoor,Premium Support,6100,Proposal Sent
+Underwood LLC,Meera Iyer,Training & Enablement,6100,Prospecting
+Ibarra-Suarez,Rohan Verma,Premium Support,6000,Proposal Sent
+Blake and Sons,Aditi Sharma,Premium Support,5800,Proposal Sent
+Burgess-Patterson,Arjun Rao,Training & Enablement,5800,Prospecting
+Delacruz Group,Sneha Kapoor,Premium Support,5700,Prospecting
+"Higgins, Moore and Phillips",Rohan Verma,Premium Support,5700,Prospecting
+Cole LLC,Arjun Rao,Premium Support,5600,Proposal Sent
+Cole LLC,Meera Iyer,Training & Enablement,5600,Proposal Sent
+"Miller, Lopez and Larson",Rohan Verma,Premium Support,5500,Negotiation
+Lee PLC,Sneha Kapoor,Training & Enablement,5400,Qualification
+"Williams, Miller and Sandoval",Sneha Kapoor,Training & Enablement,5400,Qualification
+"Valencia, Smith and Le",Sneha Kapoor,Training & Enablement,5300,Prospecting
+Lewis-Porter,Meera Iyer,Premium Support,5200,Negotiation
+"Ellis, Baker and Wright",Sneha Kapoor,Premium Support,5100,Qualification
+Johnson-Davis,Meera Iyer,Training & Enablement,5100,Qualification
+"Cannon, Anderson and Alvarez",Karan Malhotra,Training & Enablement,4900,Prospecting
+Baker and Sons,Aditi Sharma,Premium Support,4800,Prospecting
+Harrell LLC,Aditi Sharma,Premium Support,4800,Negotiation
+Powell PLC,Meera Iyer,Training & Enablement,4800,Negotiation
+Chapman Inc,Karan Malhotra,Training & Enablement,4600,Negotiation
+Baker and Sons,Sneha Kapoor,Premium Support,4500,Negotiation
+"Miller, Lopez and Larson",Vikram Singh,Training & Enablement,4500,Negotiation
+"Sellers, George and Burns",Vikram Singh,Training & Enablement,4500,Negotiation
+"Sanchez, Ford and Nelson",Sneha Kapoor,Premium Support,4400,Qualification
+Lee PLC,Meera Iyer,Training & Enablement,4300,Qualification
+"Johnson, Gonzalez and Santos",Rohan Verma,Premium Support,4200,Negotiation
+Shaw-Farrell,Meera Iyer,Premium Support,4200,Qualification
+"Johnson, Gonzalez and Santos",Aditi Sharma,Training & Enablement,4000,Qualification

@@ -1,0 +1,421 @@
+Deal Ref,Client,Sales Owner,Opened On,Closed On,Deal Value,Outcome,Notes
+LEG-1001,Ramirez-Lewis,Nisha Pillai,2021/12/06,2022/01/25,"$4,926.14",Cancelled,
+LEG-1002,Burgess-Patterson,Priya Nair,27-04-2021,19-06-2021,56463.07,Won,Renewal
+LEG-1003,"Lynch, Hernandez and Farmer",Priya Nair,16-05-2022,02-07-2022,40628.31,Lost,Discount applied
+LEG-1004,"Lynch, Hernandez and Farmer",Sneha Kapoor,11/04/2022,02/20/2023,86537.16,Cancelled,
+LEG-1005,Burgess-Patterson,Sneha Kapoor,2022/10/10,,66990.07,In Progress,Migrated from legacy CRM
+LEG-1006,Rose-Obrien,Sneha Kapoor,16-07-2022,10-08-2022,73315.27,Won,
+LEG-1007,Conner Group,Aditi Sharma,05/19/2022,09/16/2022,56171.09,Won,Discount applied
+LEG-1008,"Campos, Vaughn and Marquez",Sneha Kapoor,11-04-2022,17-07-2022,14102.71,Cancelled,
+LEG-1009,James-Ferrell,Sneha Kapoor,2022/11/17,2023/03/12,77292.04,Won,
+LEG-1010,Stanton-Gill,Priya Nair,09/25/2021,,12497.16,In Progress,Migrated from legacy CRM
+LEG-1011,,Vikram Singh,2021/06/10,,25388.29,In Progress,Migrated from legacy CRM
+LEG-1012,Robinson-Bright,Meera Iyer,29-11-2022,03-01-2023,78259.53,Cancelled,
+LEG-1013,Lewis-Porter,Rohan Verma,12/15/2021,03/18/2022,67627.9,Won,Renewal
+LEG-1014,"Lynch, Hernandez and Farmer",Arjun Rao,11/28/2021,02/14/2022,20012.52,Won,Renewal
+LEG-1015,"Sellers, George and Burns",Deepak Joshi,22-12-2022,,"$31,757.34",In Progress,Migrated from legacy CRM
+LEG-1016,"Campos, Vaughn and Marquez",Sneha Kapoor,30-09-2021,22-12-2021,63824.7,Won,
+LEG-1017,Clark PLC,Nisha Pillai,2022/05/27,2022/08/18,"$83,228.22",Won,Migrated from legacy CRM
+LEG-1018,,Karan Malhotra,28-10-2022,07-01-2023,17331.02,Lost,
+LEG-1019,"Santos, Kim and Holmes",Vikram Singh,07/07/2022,,16502.4,In Progress,Renewal
+LEG-1020,James-Ferrell,Nisha Pillai,08/08/2022,11/01/2022,20532.56,Cancelled,Migrated from legacy CRM
+LEG-1021,Allen PLC,Arjun Rao,2022/08/25,2022/10/25,35348.25,Won,
+LEG-1022,"Sellers, George and Burns",Vikram Singh,07/10/2022,11/07/2022,25233.0,Won,
+LEG-1023,"Zuniga, Wong and Lynch",Vikram Singh,11-05-2022,,65710.55,In Progress,Migrated from legacy CRM
+LEG-1024,"Montgomery, Hensley and Ray",Aditi Sharma,2022/03/11,2022/04/01,46753.43,Cancelled,Discount applied
+LEG-1025,Underwood LLC,Nisha Pillai,2022/07/28,,16717.69,In Progress,Migrated from legacy CRM
+LEG-1026,James-Ferrell,Karan Malhotra,19-01-2022,,46209.64,In Progress,Renewal
+LEG-1027,"Sellers, George and Burns",Sneha Kapoor,01/21/2022,05/05/2022,30200.85,Lost,Discount applied
+LEG-1028,Rose-Obrien,Rohan Verma,2021/09/21,,"$87,496.41",In Progress,
+LEG-1029,Stanley LLC,Meera Iyer,2022/10/31,,66999.84,In Progress,
+LEG-1030,Conner Group,Sneha Kapoor,03/23/2021,06/09/2021,11663.09,Cancelled,Renewal
+LEG-1031,"Hawkins, Cohen and Cameron",Vikram Singh,28-08-2022,25-10-2022,12244.24,Won,
+LEG-1032,Chavez Ltd,Rohan Verma,21-10-2022,30-11-2022,34203.26,Won,
+LEG-1033,Koch-Decker,Aditi Sharma,05/28/2021,06/19/2021,36090.64,Won,Migrated from legacy CRM
+LEG-1034,Delacruz Group,Nisha Pillai,01/27/2022,02/14/2022,52449.36,Cancelled,
+LEG-1035,"Cannon, Anderson and Alvarez",Meera Iyer,30-04-2021,28-06-2021,79000.35,Cancelled,
+LEG-1036,Davis Inc,Priya Nair,2022/09/15,2023/01/12,"$6,609.38",Won,
+LEG-1037,"Campos, Vaughn and Marquez",Meera Iyer,11/19/2021,12/27/2021,48590.04,Won,Renewal
+LEG-1038,"Sanchez, Ford and Nelson",Arjun Rao,2022/05/11,,85184.95,In Progress,
+LEG-1039,Harrell LLC,Nisha Pillai,2022/06/07,2022/10/04,20197.26,Won,Discount applied
+LEG-1040,Koch-Decker,Sneha Kapoor,2021/12/23,2022/03/31,82420.56,Lost,Migrated from legacy CRM
+LEG-1041,Conner Group,Rohan Verma,18-10-2022,29-12-2022,29194.49,Cancelled,
+LEG-1042,Clark PLC,Aditi Sharma,11/21/2021,01/16/2022,45632.99,Won,
+LEG-1043,"Johnson, Gonzalez and Santos",Deepak Joshi,02/10/2021,,53129.64,In Progress,
+LEG-1044,"Potter, Mack and Peterson",Deepak Joshi,2021/04/07,2021/05/30,20188.55,Lost,Discount applied
+LEG-1045,"Zuniga, Wong and Lynch",Arjun Rao,30-10-2021,11-02-2022,"$82,316.94",Won,
+LEG-1046,Davis Inc,Priya Nair,02/16/2022,05/15/2022,"$56,719.47",Won,
+LEG-1047,Johnson-Davis,Meera Iyer,12-02-2022,,75085.21,In Progress,
+LEG-1048,Lewis-Porter,Karan Malhotra,05/06/2022,08/08/2022,83307.29,Won,Renewal
+LEG-1049,"Hawkins, Cohen and Cameron",Nisha Pillai,2021/08/13,2021/10/20,76466.55,Won,Renewal
+LEG-1050,Davis Inc,Rohan Verma,2021/01/16,2021/05/09,15084.39,Lost,Renewal
+LEG-1051,James-Ferrell,Priya Nair,2021/07/05,2021/09/26,18393.54,Won,Migrated from legacy CRM
+LEG-1052,Blake and Sons,Deepak Joshi,03-01-2021,,37961.94,In Progress,Renewal
+LEG-1053,Conner Group,Meera Iyer,08-06-2021,28-08-2021,"$44,330.30",Won,
+LEG-1054,Johnson-Davis,Deepak Joshi,2021/02/23,2021/05/27,"$41,677.34",Lost,
+LEG-1055,Stanley LLC,Arjun Rao,11/05/2021,11/25/2021,17133.11,Cancelled,
+LEG-1056,Delacruz Group,Arjun Rao,2022/05/26,2022/06/17,85426.63,Cancelled,
+LEG-1057,"Ellis, Baker and Wright",Aditi Sharma,30-01-2022,22-02-2022,28751.36,Won,
+LEG-1058,Campos Inc,Aditi Sharma,13-02-2021,07-05-2021,57198.42,Lost,
+LEG-1059,"Zuniga, Wong and Lynch",Aditi Sharma,2022/10/14,2022/10/29,9023.91,Won,
+LEG-1060,"Sanchez, Ford and Nelson",Vikram Singh,12/20/2022,03/05/2023,28292.29,Won,Migrated from legacy CRM
+LEG-1061,"Zuniga, Wong and Lynch",Meera Iyer,2021/12/11,2022/03/17,81277.6,Won,
+LEG-1062,"Martinez, Nielsen and Miller",Aditi Sharma,2021/07/29,,"$35,654.72",In Progress,Renewal
+LEG-1063,"Flowers, Martin and Kelly",Sneha Kapoor,12-05-2021,04-08-2021,"$88,924.09",Cancelled,Renewal
+LEG-1064,James-Ferrell,Meera Iyer,2021/04/09,2021/06/20,85904.18,Lost,
+LEG-1065,"Santos, Kim and Holmes",Arjun Rao,04/13/2022,05/22/2022,20735.77,Cancelled,Discount applied
+LEG-1066,Allen PLC,Vikram Singh,2022/06/16,2022/10/10,30393.31,Won,Discount applied
+LEG-1067,Koch-Decker,Sneha Kapoor,04-12-2022,13-01-2023,33040.75,Lost,Renewal
+LEG-1068,"Cannon, Anderson and Alvarez",Meera Iyer,2021/09/30,2021/11/10,52795.79,Cancelled,Discount applied
+LEG-1069,"Lynch, Hernandez and Farmer",Arjun Rao,12-10-2022,21-11-2022,44297.86,Won,
+LEG-1070,"Ellis, Baker and Wright",Arjun Rao,23-11-2021,18-12-2021,"$78,153.44",Lost,
+LEG-1071,Harrell LLC,Arjun Rao,31-10-2022,24-12-2022,82195.12,Lost,Migrated from legacy CRM
+LEG-1072,Davis Inc,Deepak Joshi,10/03/2021,01/28/2022,17743.87,Cancelled,
+LEG-1073,Davis Inc,Meera Iyer,2021/02/28,2021/06/03,28186.18,Cancelled,
+LEG-1074,Campos Inc,Vikram Singh,2022/12/04,2023/01/05,45011.68,Lost,Renewal
+LEG-1075,Cole LLC,Meera Iyer,09/30/2022,12/16/2022,80161.93,Lost,Discount applied
+LEG-1076,Delacruz Group,Arjun Rao,07-04-2021,11-06-2021,13543.58,Won,
+LEG-1077,"Montgomery, Hensley and Ray",Arjun Rao,2022/09/20,2023/01/15,5372.18,Won,
+LEG-1078,"Sanchez, Ford and Nelson",Priya Nair,28-03-2021,17-06-2021,46106.38,Won,Renewal
+LEG-1079,Burgess-Patterson,Deepak Joshi,25-12-2022,21-02-2023,89578.32,Won,
+LEG-1080,Conner Group,Sneha Kapoor,14-10-2021,,5652.25,In Progress,
+LEG-1081,"Potter, Mack and Peterson",Sneha Kapoor,04/03/2021,05/22/2021,35544.28,Won,
+LEG-1082,Blake and Sons,Arjun Rao,2022/12/15,2023/04/01,46039.42,Won,
+LEG-1083,"Sanchez, Ford and Nelson",Rohan Verma,01-09-2022,28-12-2022,"$19,231.22",Won,
+LEG-1084,Stanton-Gill,Arjun Rao,2022/07/06,,57101.62,In Progress,
+LEG-1085,Blake and Sons,Aditi Sharma,12/15/2022,01/06/2023,82948.19,Cancelled,
+LEG-1086,Delacruz Group,Vikram Singh,04-12-2021,20-03-2022,37273.48,Lost,Renewal
+LEG-1087,"Rodriguez, Figueroa and Sanchez",Rohan Verma,06/09/2022,09/18/2022,"$78,390.71",Lost,
+LEG-1088,Cole LLC,Karan Malhotra,11/06/2021,01/29/2022,87654.24,Lost,Migrated from legacy CRM
+LEG-1089,Clark PLC,Karan Malhotra,04-10-2021,17-11-2021,75899.47,Cancelled,Migrated from legacy CRM
+LEG-1090,"Montgomery, Hensley and Ray",Rohan Verma,17-06-2021,04-10-2021,60316.43,Won,
+LEG-1091,Chavez Ltd,Aditi Sharma,02-12-2021,20-03-2022,57306.7,Won,Migrated from legacy CRM
+LEG-1092,"Ellis, Baker and Wright",Vikram Singh,04/24/2021,06/24/2021,"$62,324.82",Won,Renewal
+LEG-1093,Rose-Obrien,Meera Iyer,2021/05/18,2021/07/10,30958.82,Won,Migrated from legacy CRM
+LEG-1094,Stanton-Gill,Vikram Singh,2022/10/01,2022/12/14,83416.36,Cancelled,
+LEG-1095,"Ellis, Baker and Wright",Sneha Kapoor,2022/07/13,2022/11/01,"$40,085.36",Lost,Renewal
+LEG-1096,"Flowers, Martin and Kelly",Rohan Verma,01/24/2021,04/04/2021,81861.16,Won,Renewal
+LEG-1097,Dennis Inc,Priya Nair,2022/04/27,2022/06/15,21007.06,Lost,
+LEG-1098,"Johnson, Gonzalez and Santos",Arjun Rao,2022/03/25,2022/07/10,41225.64,Won,
+LEG-1099,"Flowers, Martin and Kelly",Sneha Kapoor,2022/11/14,2023/02/27,16167.09,Cancelled,
+LEG-1100,"Campos, Vaughn and Marquez",Meera Iyer,11-10-2022,14-01-2023,30712.63,Won,Migrated from legacy CRM
+LEG-1101,Chavez Ltd,Arjun Rao,06/25/2021,,35782.81,In Progress,Renewal
+LEG-1102,Harrell LLC,Priya Nair,02/19/2021,04/16/2021,24075.7,Won,Discount applied
+LEG-1103,"Zuniga, Wong and Lynch",Nisha Pillai,09-03-2022,,87030.76,In Progress,Discount applied
+LEG-1104,,Deepak Joshi,22-11-2021,21-03-2022,46018.56,Won,Renewal
+LEG-1105,Underwood LLC,Rohan Verma,2022/05/05,2022/08/07,46220.88,Cancelled,Renewal
+LEG-1106,"Zuniga, Wong and Lynch",Aditi Sharma,2022/09/28,,35285.29,In Progress,Migrated from legacy CRM
+LEG-1107,"Lynch, Hernandez and Farmer",Arjun Rao,2021/06/28,2021/09/30,52321.5,Lost,
+LEG-1108,"Sellers, George and Burns",Priya Nair,02/02/2021,05/04/2021,67074.11,Lost,Renewal
+LEG-1109,Rhodes PLC,Sneha Kapoor,17-11-2021,16-03-2022,29643.22,Won,Migrated from legacy CRM
+LEG-1110,"Ellis, Baker and Wright",Rohan Verma,2022/01/29,2022/03/03,57826.53,Won,Renewal
+LEG-1111,Rhodes PLC,Rohan Verma,07/04/2022,10/17/2022,42986.68,Won,Migrated from legacy CRM
+LEG-1112,"Ellis, Baker and Wright",Sneha Kapoor,20-07-2022,20-09-2022,65963.11,Lost,Migrated from legacy CRM
+LEG-1113,,Deepak Joshi,13-04-2021,03-08-2021,31865.22,Won,
+LEG-1114,"Sanchez, Ford and Nelson",Rohan Verma,26-12-2022,18-01-2023,17035.01,Won,Migrated from legacy CRM
+LEG-1115,Koch-Decker,Sneha Kapoor,2021/06/20,2021/08/26,68573.16,Cancelled,
+LEG-1116,"Hawkins, Cohen and Cameron",Karan Malhotra,31-10-2022,26-11-2022,"$42,570.84",Lost,
+LEG-1117,,Karan Malhotra,24-02-2022,21-05-2022,76488.81,Lost,
+LEG-1118,"Sellers, George and Burns",Priya Nair,02/25/2022,03/29/2022,37327.17,Cancelled,
+LEG-1119,Rose-Obrien,Vikram Singh,2022/07/18,2022/10/30,7451.18,Won,Migrated from legacy CRM
+LEG-1120,"Rodriguez, Figueroa and Sanchez",Nisha Pillai,2022/08/20,2022/11/17,75297.15,Won,Migrated from legacy CRM
+LEG-1121,"Ellis, Baker and Wright",Priya Nair,2021/06/22,2021/09/10,21336.39,Cancelled,
+LEG-1122,"Flowers, Martin and Kelly",Meera Iyer,01-10-2022,12-12-2022,87225.19,Won,
+LEG-1123,Lewis-Porter,Karan Malhotra,12/20/2022,01/17/2023,84245.18,Won,Migrated from legacy CRM
+LEG-1124,"Flowers, Martin and Kelly",Deepak Joshi,01/15/2022,04/22/2022,23763.66,Won,Migrated from legacy CRM
+LEG-1125,"Ellis, Baker and Wright",Vikram Singh,2021/10/29,2021/12/06,21746.33,Cancelled,Discount applied
+LEG-1126,"Sanchez, Ford and Nelson",Rohan Verma,2021/07/20,2021/10/05,28539.45,Won,
+LEG-1127,Conner Group,Nisha Pillai,10-02-2022,,85423.69,In Progress,
+LEG-1128,Campos Inc,Rohan Verma,08-03-2022,09-05-2022,59536.4,Won,Renewal
+LEG-1129,"Flowers, Martin and Kelly",Rohan Verma,20-06-2022,,29976.31,In Progress,
+LEG-1130,Rose-Obrien,Deepak Joshi,08-05-2021,22-07-2021,11404.19,Won,Migrated from legacy CRM
+LEG-1131,James-Ferrell,Sneha Kapoor,2022/05/10,2022/08/05,9442.41,Won,
+LEG-1132,Cole LLC,Priya Nair,2022/02/10,2022/04/25,"$19,051.97",Won,Renewal
+LEG-1133,Chavez Ltd,Aditi Sharma,04-02-2021,25-03-2021,61726.86,Won,Discount applied
+LEG-1134,"Johnson, Gonzalez and Santos",Priya Nair,09/09/2021,,46013.38,In Progress,Migrated from legacy CRM
+LEG-1135,Campos Inc,Deepak Joshi,2022/04/14,2022/06/15,74581.42,Lost,Migrated from legacy CRM
+LEG-1136,Clark PLC,Meera Iyer,2021/10/05,2021/12/03,38553.01,Cancelled,Discount applied
+LEG-1137,Robinson-Bright,Vikram Singh,18-01-2022,29-03-2022,55785.06,Cancelled,Discount applied
+LEG-1138,Burgess-Patterson,Deepak Joshi,23-05-2022,28-06-2022,82973.69,Lost,Discount applied
+LEG-1139,Davis Inc,Deepak Joshi,25-10-2021,21-02-2022,74922.95,Won,Discount applied
+LEG-1140,"Zuniga, Wong and Lynch",Arjun Rao,2021/08/07,2021/08/22,84367.45,Cancelled,
+LEG-1141,James-Ferrell,Karan Malhotra,2021/05/15,2021/09/09,51166.76,Won,Renewal
+LEG-1142,Delacruz Group,Aditi Sharma,28-01-2022,25-02-2022,43014.25,Won,Renewal
+LEG-1143,"Flowers, Martin and Kelly",Deepak Joshi,06/25/2021,07/19/2021,85709.51,Won,
+LEG-1144,Cole LLC,Rohan Verma,2021/06/14,2021/07/02,14412.5,Won,Renewal
+LEG-1145,Campos Inc,Karan Malhotra,2022/09/18,2022/11/26,4908.89,Won,Renewal
+LEG-1146,,Arjun Rao,04/16/2021,07/01/2021,7601.24,Won,
+LEG-1147,Rose-Obrien,Nisha Pillai,2021/12/04,2022/02/17,68750.94,Won,Renewal
+LEG-1148,Blake and Sons,Rohan Verma,12-02-2021,,"$69,278.25",In Progress,
+LEG-1149,Harrell LLC,Aditi Sharma,10/28/2021,,43103.01,In Progress,Migrated from legacy CRM
+LEG-1150,"Rodriguez, Figueroa and Sanchez",Meera Iyer,10/31/2021,02/22/2022,77499.23,Won,Discount applied
+LEG-1151,Allen PLC,Aditi Sharma,22-01-2022,11-04-2022,43833.48,Won,Discount applied
+LEG-1152,Johnson-Davis,Priya Nair,2021/10/11,2021/12/31,18957.01,Won,Renewal
+LEG-1153,,Meera Iyer,05-07-2021,08-08-2021,21124.58,Cancelled,
+LEG-1154,Chavez Ltd,Rohan Verma,2021/08/29,2021/10/11,78438.64,Won,
+LEG-1155,"Potter, Mack and Peterson",Aditi Sharma,02/27/2021,06/16/2021,52398.28,Won,Discount applied
+LEG-1156,Cole LLC,Rohan Verma,24-11-2021,07-02-2022,27985.59,Won,Migrated from legacy CRM
+LEG-1157,"Montgomery, Hensley and Ray",Rohan Verma,28-09-2021,16-12-2021,81969.0,Lost,
+LEG-1158,Stanley LLC,Nisha Pillai,2022/01/26,2022/04/20,51933.69,Cancelled,
+LEG-1159,,Aditi Sharma,28-08-2022,11-10-2022,15456.47,Won,
+LEG-1160,"Ellis, Baker and Wright",Karan Malhotra,02/07/2021,03/28/2021,49624.66,Cancelled,
+LEG-1161,Allen PLC,Rohan Verma,2021/10/02,2021/12/16,"$45,171.15",Lost,
+LEG-1162,"Valencia, Smith and Le",Arjun Rao,18-03-2022,20-04-2022,"$89,128.56",Lost,Migrated from legacy CRM
+LEG-1163,Delacruz Group,Arjun Rao,2021/01/29,2021/05/20,7690.17,Cancelled,Renewal
+LEG-1164,"Valencia, Smith and Le",Meera Iyer,02/23/2021,,45225.46,In Progress,
+LEG-1165,Blake and Sons,Meera Iyer,2022/08/10,,"$41,215.77",In Progress,
+LEG-1166,Lewis-Porter,Deepak Joshi,2022/03/05,2022/05/09,43947.61,Won,Migrated from legacy CRM
+LEG-1167,Dennis Inc,Nisha Pillai,05/05/2022,07/19/2022,69137.92,Lost,Renewal
+LEG-1168,Cole LLC,Priya Nair,2021/06/08,2021/09/19,87869.49,Won,Migrated from legacy CRM
+LEG-1169,Delacruz Group,Arjun Rao,06/02/2021,09/01/2021,83706.51,Won,
+LEG-1170,"Santos, Kim and Holmes",Meera Iyer,10/24/2022,01/13/2023,26696.27,Won,
+LEG-1171,Stanley LLC,Rohan Verma,08/10/2021,10/10/2021,31618.25,Won,
+LEG-1172,"Lynch, Hernandez and Farmer",Arjun Rao,10/25/2022,02/18/2023,75413.48,Lost,Renewal
+LEG-1173,Cole LLC,Priya Nair,06/04/2021,07/23/2021,43480.81,Won,Renewal
+LEG-1174,Dennis Inc,Nisha Pillai,19-05-2021,23-07-2021,73831.24,Won,Discount applied
+LEG-1175,Harrell LLC,Sneha Kapoor,2022/06/25,2022/08/04,40782.83,Cancelled,Migrated from legacy CRM
+LEG-1176,Cole LLC,Priya Nair,29-06-2022,06-08-2022,35074.8,Won,Discount applied
+LEG-1177,"Cannon, Anderson and Alvarez",Aditi Sharma,04-07-2022,04-08-2022,83614.31,Won,
+LEG-1178,"Santos, Kim and Holmes",Nisha Pillai,10/29/2022,01/31/2023,27836.95,Won,Discount applied
+LEG-1179,"Montgomery, Hensley and Ray",Sneha Kapoor,23-05-2022,07-07-2022,5974.05,Lost,Discount applied
+LEG-1180,Davis Inc,Rohan Verma,29-05-2022,03-07-2022,56815.38,Lost,Renewal
+LEG-1181,Ramirez-Lewis,Aditi Sharma,10/17/2021,12/29/2021,18245.26,Lost,Migrated from legacy CRM
+LEG-1182,"Valencia, Smith and Le",Vikram Singh,2021/06/24,2021/09/23,42370.21,Cancelled,
+LEG-1183,"Lynch, Hernandez and Farmer",Sneha Kapoor,08/23/2021,,5980.29,In Progress,Discount applied
+LEG-1184,"Flowers, Martin and Kelly",Arjun Rao,2021/07/26,2021/08/12,47650.1,Lost,
+LEG-1185,James-Ferrell,Priya Nair,12/06/2021,03/20/2022,71774.02,Lost,Migrated from legacy CRM
+LEG-1186,Cole LLC,Vikram Singh,04/18/2022,,86616.34,In Progress,
+LEG-1187,"Potter, Mack and Peterson",Rohan Verma,2021/08/13,2021/10/11,36763.5,Cancelled,Migrated from legacy CRM
+LEG-1188,"Zuniga, Wong and Lynch",Nisha Pillai,2021/09/20,2021/11/08,82397.48,Lost,
+LEG-1189,Dennis Inc,Aditi Sharma,06-10-2022,,11737.64,In Progress,Migrated from legacy CRM
+LEG-1190,Stanley LLC,Karan Malhotra,2021/12/06,2022/01/22,"$16,816.52",Cancelled,Migrated from legacy CRM
+LEG-1191,Stanley LLC,Priya Nair,09-08-2022,01-09-2022,78975.67,Cancelled,Renewal
+LEG-1192,Ramirez-Lewis,Priya Nair,11-06-2022,,20803.11,In Progress,
+LEG-1193,Allen PLC,Meera Iyer,2022/07/10,2022/11/01,51595.72,Lost,
+LEG-1194,"Johnson, Gonzalez and Santos",Sneha Kapoor,2021/08/22,2021/09/27,"$48,139.15",Lost,
+LEG-1195,Underwood LLC,Vikram Singh,29-05-2021,02-07-2021,24805.6,Lost,Renewal
+LEG-1196,Cole LLC,Sneha Kapoor,08/17/2021,09/15/2021,25346.47,Lost,
+LEG-1197,James-Ferrell,Deepak Joshi,2021/02/03,2021/04/26,62267.19,Cancelled,Discount applied
+LEG-1198,Koch-Decker,Sneha Kapoor,09/22/2022,12/23/2022,65778.6,Lost,Discount applied
+LEG-1199,"Campos, Vaughn and Marquez",Sneha Kapoor,25-06-2022,26-07-2022,55582.65,Cancelled,Renewal
+LEG-1200,"Martinez, Nielsen and Miller",Vikram Singh,2021/01/12,2021/01/30,45901.06,Lost,Migrated from legacy CRM
+LEG-1201,James-Ferrell,Vikram Singh,08-02-2022,13-03-2022,81443.31,Cancelled,Migrated from legacy CRM
+LEG-1202,Ramirez-Lewis,Priya Nair,02-03-2022,15-05-2022,8415.78,Won,
+LEG-1203,"Sellers, George and Burns",Deepak Joshi,06/09/2022,08/12/2022,"$79,001.71",Cancelled,
+LEG-1204,Ramirez-Lewis,Meera Iyer,04-08-2021,19-10-2021,20639.22,Won,
+LEG-1205,"Santos, Kim and Holmes",Vikram Singh,05/24/2021,07/05/2021,"$48,813.83",Won,Discount applied
+LEG-1206,"Lynch, Hernandez and Farmer",Sneha Kapoor,17-06-2021,18-08-2021,72905.26,Won,Discount applied
+LEG-1207,Chavez Ltd,Priya Nair,02/20/2022,05/18/2022,87259.13,Lost,
+LEG-1208,,Aditi Sharma,29-06-2021,08-08-2021,27715.35,Lost,
+LEG-1209,"Cannon, Anderson and Alvarez",Priya Nair,2022/02/06,2022/03/17,72754.56,Lost,
+LEG-1210,"Montgomery, Hensley and Ray",Vikram Singh,19-11-2022,24-12-2022,"$45,509.15",Won,
+LEG-1211,"Hawkins, Cohen and Cameron",Nisha Pillai,2021/09/04,2021/12/31,88233.4,Won,Migrated from legacy CRM
+LEG-1212,"Campos, Vaughn and Marquez",Karan Malhotra,07/11/2022,10/19/2022,75840.84,Lost,
+LEG-1213,James-Ferrell,Aditi Sharma,2021/12/23,2022/02/10,84834.84,Won,Migrated from legacy CRM
+LEG-1214,"Sanchez, Ford and Nelson",Vikram Singh,06/12/2022,07/15/2022,23231.77,Lost,
+LEG-1215,"Sanchez, Ford and Nelson",Meera Iyer,2022/06/24,2022/09/11,38387.16,Cancelled,
+LEG-1216,Burgess-Patterson,Arjun Rao,2021/12/02,2021/12/24,41166.42,Won,Migrated from legacy CRM
+LEG-1217,Clark PLC,Karan Malhotra,2022/06/19,2022/09/04,54604.4,Lost,Migrated from legacy CRM
+LEG-1218,"Rodriguez, Figueroa and Sanchez",Meera Iyer,09/14/2021,11/09/2021,"$36,408.90",Cancelled,Renewal
+LEG-1219,Munoz-Roman,Priya Nair,04/13/2021,08/07/2021,"$89,298.01",Won,Migrated from legacy CRM
+LEG-1220,Blake and Sons,Aditi Sharma,03-02-2022,01-03-2022,"$30,640.00",Won,
+LEG-1221,"Santos, Kim and Holmes",Priya Nair,2021/05/15,2021/07/19,55029.83,Lost,
+LEG-1222,"Campos, Vaughn and Marquez",Karan Malhotra,11-10-2022,28-11-2022,59337.91,Won,
+LEG-1223,"Sellers, George and Burns",Priya Nair,12/23/2022,02/19/2023,18001.36,Won,Renewal
+LEG-1224,"Martinez, Nielsen and Miller",Aditi Sharma,2022/11/29,2023/01/13,61297.96,Won,
+LEG-1225,Burgess-Patterson,Arjun Rao,17-01-2022,16-02-2022,"$42,607.14",Lost,Renewal
+LEG-1226,Lewis-Porter,Karan Malhotra,09/04/2022,10/04/2022,61471.16,Cancelled,
+LEG-1227,"Hawkins, Cohen and Cameron",Sneha Kapoor,24-02-2021,30-04-2021,"$33,677.37",Lost,Renewal
+LEG-1228,"Potter, Mack and Peterson",Arjun Rao,08/20/2022,10/24/2022,78181.4,Lost,
+LEG-1229,Munoz-Roman,Karan Malhotra,2021/02/05,2021/03/13,45872.9,Cancelled,Migrated from legacy CRM
+LEG-1230,"Santos, Kim and Holmes",Arjun Rao,05-01-2021,22-04-2021,70293.96,Won,
+LEG-1231,"Sellers, George and Burns",Priya Nair,04/11/2021,08/02/2021,"$21,347.34",Cancelled,Discount applied
+LEG-1232,,Nisha Pillai,04/05/2022,07/07/2022,70195.22,Won,Discount applied
+LEG-1233,Cole LLC,Vikram Singh,19-02-2021,03-05-2021,5540.68,Cancelled,Renewal
+LEG-1234,Lewis-Porter,Aditi Sharma,04/21/2021,07/22/2021,31105.44,Lost,Discount applied
+LEG-1235,Chavez Ltd,Karan Malhotra,09-06-2021,27-07-2021,"$49,643.88",Cancelled,
+LEG-1236,Rhodes PLC,Deepak Joshi,2021/11/29,2021/12/23,50032.16,Won,Discount applied
+LEG-1237,"Sanchez, Ford and Nelson",Sneha Kapoor,02/14/2021,05/03/2021,60870.82,Won,
+LEG-1238,Harrell LLC,Aditi Sharma,10-04-2022,20-05-2022,"$62,917.23",Won,
+LEG-1239,"Potter, Mack and Peterson",Karan Malhotra,2022/11/12,2023/02/28,29139.23,Lost,Migrated from legacy CRM
+LEG-1240,Cole LLC,Meera Iyer,2022/10/28,2022/12/18,89818.12,Won,
+LEG-1241,Allen PLC,Vikram Singh,2022/04/26,,13749.89,In Progress,Discount applied
+LEG-1242,Robinson-Bright,Meera Iyer,01/12/2021,04/22/2021,"$27,933.85",Cancelled,
+LEG-1243,Blake and Sons,Rohan Verma,01/23/2022,03/11/2022,5567.57,Lost,
+LEG-1244,Robinson-Bright,Aditi Sharma,10/27/2021,01/16/2022,49993.59,Won,Renewal
+LEG-1245,"Santos, Kim and Holmes",Vikram Singh,13-01-2021,,70724.15,In Progress,Discount applied
+LEG-1246,Stanton-Gill,Sneha Kapoor,06/11/2022,07/04/2022,60504.21,Won,Migrated from legacy CRM
+LEG-1247,Campos Inc,Arjun Rao,26-01-2022,15-02-2022,"$42,950.21",Cancelled,
+LEG-1248,Rose-Obrien,Meera Iyer,28-07-2021,10-10-2021,12254.05,Cancelled,Renewal
+LEG-1249,"Ellis, Baker and Wright",Karan Malhotra,01/02/2022,,14298.76,In Progress,Migrated from legacy CRM
+LEG-1250,Munoz-Roman,Priya Nair,2022/05/24,2022/08/01,"$7,348.74",Cancelled,
+LEG-1251,Lewis-Porter,Sneha Kapoor,10-11-2021,16-01-2022,87861.14,Won,
+LEG-1252,Ramirez-Lewis,Arjun Rao,17-11-2022,,78777.42,In Progress,
+LEG-1253,Rose-Obrien,Rohan Verma,2021/05/11,2021/06/28,"$31,374.81",Lost,
+LEG-1254,Dennis Inc,Nisha Pillai,11/01/2022,02/21/2023,68916.29,Won,Discount applied
+LEG-1255,Burgess-Patterson,Priya Nair,2022/01/18,,7503.42,In Progress,
+LEG-1256,,Arjun Rao,06/25/2021,07/22/2021,4344.81,Cancelled,Discount applied
+LEG-1257,Burgess-Patterson,Meera Iyer,03/28/2022,05/02/2022,84810.52,Lost,Discount applied
+LEG-1258,"Sellers, George and Burns",Karan Malhotra,07/04/2021,,44447.15,In Progress,Renewal
+LEG-1259,"Lynch, Hernandez and Farmer",Deepak Joshi,2021/09/16,2021/12/06,53595.4,Lost,
+LEG-1260,Munoz-Roman,Sneha Kapoor,08/03/2022,11/04/2022,37405.94,Cancelled,Discount applied
+LEG-1261,"Campos, Vaughn and Marquez",Vikram Singh,02/27/2021,04/14/2021,"$77,628.04",Won,
+LEG-1262,Rose-Obrien,Rohan Verma,12/01/2022,01/09/2023,"$25,752.51",Lost,
+LEG-1263,"Flowers, Martin and Kelly",Priya Nair,01-12-2021,,66887.71,In Progress,
+LEG-1264,"Flowers, Martin and Kelly",Vikram Singh,27-06-2021,,"$75,377.48",In Progress,
+LEG-1265,Koch-Decker,Priya Nair,24-05-2022,29-08-2022,78716.9,Cancelled,
+LEG-1266,"Sanchez, Ford and Nelson",Vikram Singh,07-08-2021,09-09-2021,20168.06,Cancelled,Migrated from legacy CRM
+LEG-1267,"Johnson, Gonzalez and Santos",Vikram Singh,27-08-2022,13-10-2022,41263.23,Won,
+LEG-1268,Harrell LLC,Deepak Joshi,28-02-2021,20-04-2021,28376.37,Won,Discount applied
+LEG-1269,Harrell LLC,Sneha Kapoor,12/24/2022,02/15/2023,23291.15,Won,
+LEG-1270,"Zuniga, Wong and Lynch",Deepak Joshi,19-04-2022,29-06-2022,5474.54,Lost,
+LEG-1271,Koch-Decker,Priya Nair,01/24/2021,03/27/2021,"$25,913.76",Cancelled,
+LEG-1272,Dennis Inc,Nisha Pillai,23-10-2021,20-11-2021,81294.71,Lost,Renewal
+LEG-1273,"Cannon, Anderson and Alvarez",Arjun Rao,02-10-2021,,32154.39,In Progress,
+LEG-1274,Underwood LLC,Nisha Pillai,14-12-2021,21-01-2022,67005.23,Lost,Renewal
+LEG-1275,"Sanchez, Ford and Nelson",Arjun Rao,04/10/2022,07/11/2022,12263.73,Won,Migrated from legacy CRM
+LEG-1276,Dennis Inc,Aditi Sharma,28-05-2022,17-09-2022,49793.79,Won,
+LEG-1277,Cole LLC,Rohan Verma,02-03-2021,03-04-2021,7773.4,Cancelled,
+LEG-1278,,Nisha Pillai,09-09-2022,21-10-2022,"$35,895.42",Cancelled,
+LEG-1279,"Santos, Kim and Holmes",Rohan Verma,04/16/2022,,"$80,806.84",In Progress,
+LEG-1280,,Priya Nair,08/30/2021,12/24/2021,58103.2,Lost,
+LEG-1281,"Zuniga, Wong and Lynch",Nisha Pillai,14-12-2022,,"$80,322.27",In Progress,Migrated from legacy CRM
+LEG-1282,"Montgomery, Hensley and Ray",Aditi Sharma,2022/12/11,2023/03/25,84380.32,Won,Discount applied
+LEG-1283,Stanley LLC,Karan Malhotra,15-10-2022,04-12-2022,18797.87,Lost,
+LEG-1284,Davis Inc,Karan Malhotra,02-11-2022,14-01-2023,60902.87,Won,Migrated from legacy CRM
+LEG-1285,"Montgomery, Hensley and Ray",Arjun Rao,17-06-2021,26-08-2021,75691.29,Won,Discount applied
+LEG-1286,"Valencia, Smith and Le",Rohan Verma,20-10-2022,27-12-2022,11295.15,Cancelled,
+LEG-1287,Rose-Obrien,Nisha Pillai,2022/05/20,,65380.12,In Progress,Migrated from legacy CRM
+LEG-1288,"Santos, Kim and Holmes",Vikram Singh,02/18/2022,03/25/2022,52787.25,Won,Migrated from legacy CRM
+LEG-1289,Clark PLC,Sneha Kapoor,07/17/2021,08/28/2021,72653.98,Cancelled,
+LEG-1290,Davis Inc,Deepak Joshi,11/05/2022,12/04/2022,8626.13,Cancelled,Renewal
+LEG-1291,"Zuniga, Wong and Lynch",Meera Iyer,05/14/2022,,15628.76,In Progress,
+LEG-1292,Koch-Decker,Deepak Joshi,07/24/2021,10/12/2021,10378.87,Won,Migrated from legacy CRM
+LEG-1293,"Flowers, Martin and Kelly",Meera Iyer,31-01-2022,26-04-2022,"$75,217.47",Lost,
+LEG-1294,"Ellis, Baker and Wright",Vikram Singh,2022/04/25,2022/07/28,10143.43,Lost,Migrated from legacy CRM
+LEG-1295,Rhodes PLC,Aditi Sharma,11-05-2021,08-07-2021,"$4,991.55",Won,Migrated from legacy CRM
+LEG-1296,Ramirez-Lewis,Vikram Singh,09/12/2022,12/31/2022,"$54,382.29",Won,
+LEG-1297,Davis Inc,Deepak Joshi,01/12/2021,05/02/2021,16880.67,Won,Migrated from legacy CRM
+LEG-1298,Harrell LLC,Priya Nair,06/01/2021,06/26/2021,73897.87,Cancelled,Discount applied
+LEG-1299,"Ellis, Baker and Wright",Sneha Kapoor,16-04-2021,10-05-2021,69637.66,Cancelled,
+LEG-1300,"Sanchez, Ford and Nelson",Sneha Kapoor,22-08-2022,04-11-2022,"$7,796.59",Won,Migrated from legacy CRM
+LEG-1301,Davis Inc,Karan Malhotra,08/22/2022,12/07/2022,"$27,656.82",Cancelled,
+LEG-1302,"Montgomery, Hensley and Ray",Nisha Pillai,09-11-2022,,"$35,782.70",In Progress,Renewal
+LEG-1303,"Campos, Vaughn and Marquez",Nisha Pillai,08/07/2021,10/31/2021,44400.15,Cancelled,Discount applied
+LEG-1304,Koch-Decker,Meera Iyer,02/16/2022,03/05/2022,70960.79,Lost,
+LEG-1305,Koch-Decker,Rohan Verma,18-02-2022,15-06-2022,83819.92,Won,Migrated from legacy CRM
+LEG-1306,Koch-Decker,Karan Malhotra,09/12/2022,10/30/2022,85566.29,Cancelled,
+LEG-1307,James-Ferrell,Nisha Pillai,2022/05/09,2022/06/01,27030.75,Won,
+LEG-1308,Rhodes PLC,Karan Malhotra,01/30/2022,05/07/2022,61360.19,Cancelled,
+LEG-1309,"Hawkins, Cohen and Cameron",Rohan Verma,10/07/2021,01/22/2022,"$41,056.46",Cancelled,
+LEG-1310,Johnson-Davis,Meera Iyer,06/24/2022,08/15/2022,34502.14,Cancelled,
+LEG-1311,Rhodes PLC,Rohan Verma,2022/07/31,2022/10/01,20078.16,Cancelled,Renewal
+LEG-1312,Koch-Decker,Deepak Joshi,2022/05/18,2022/09/11,78225.24,Won,
+LEG-1313,Burgess-Patterson,Meera Iyer,27-02-2021,30-04-2021,47083.41,Cancelled,Discount applied
+LEG-1314,Clark PLC,Karan Malhotra,06/28/2022,07/20/2022,7228.52,Lost,
+LEG-1315,Davis Inc,Sneha Kapoor,2021/09/10,2021/12/31,20712.29,Lost,
+LEG-1316,Davis Inc,Deepak Joshi,13-03-2021,,43107.98,In Progress,
+LEG-1317,James-Ferrell,Arjun Rao,19-06-2021,29-07-2021,58255.13,Lost,
+LEG-1318,"Lynch, Hernandez and Farmer",Arjun Rao,02/25/2021,03/16/2021,11212.42,Cancelled,
+LEG-1319,"Rodriguez, Figueroa and Sanchez",Aditi Sharma,2022/03/18,2022/06/05,70986.55,Lost,
+LEG-1320,"Campos, Vaughn and Marquez",Deepak Joshi,24-03-2022,20-07-2022,32774.61,Won,
+LEG-1321,"Campos, Vaughn and Marquez",Rohan Verma,2022/03/11,2022/05/07,46772.24,Cancelled,
+LEG-1322,Cole LLC,Priya Nair,08-12-2022,20-03-2023,56437.87,Won,
+LEG-1323,Harrell LLC,Arjun Rao,08/26/2021,11/30/2021,50373.72,Won,Discount applied
+LEG-1324,"Campos, Vaughn and Marquez",Nisha Pillai,08-04-2022,14-06-2022,18671.66,Lost,
+LEG-1325,Johnson-Davis,Priya Nair,2022/07/26,2022/09/14,"$33,041.74",Lost,Discount applied
+LEG-1326,Burgess-Patterson,Karan Malhotra,25-11-2021,15-03-2022,75344.14,Cancelled,Renewal
+LEG-1327,Munoz-Roman,Sneha Kapoor,06/16/2021,10/10/2021,7986.82,Won,
+LEG-1328,Rhodes PLC,Sneha Kapoor,02/08/2022,,35073.7,In Progress,
+LEG-1329,"Hawkins, Cohen and Cameron",Arjun Rao,2021/10/01,,22305.4,In Progress,Migrated from legacy CRM
+LEG-1330,"Lynch, Hernandez and Farmer",Sneha Kapoor,05/16/2021,07/25/2021,51325.06,Lost,Discount applied
+LEG-1331,Lewis-Porter,Deepak Joshi,2022/03/04,2022/05/25,28974.47,Won,Discount applied
+LEG-1332,Koch-Decker,Meera Iyer,05-10-2021,27-01-2022,24418.61,Cancelled,
+LEG-1333,Campos Inc,Vikram Singh,2022/07/17,2022/10/22,"$56,847.73",Won,Discount applied
+LEG-1334,"Cannon, Anderson and Alvarez",Meera Iyer,2021/08/04,,"$53,952.55",In Progress,
+LEG-1335,"Santos, Kim and Holmes",Sneha Kapoor,2021/06/29,2021/09/09,18241.69,Cancelled,Migrated from legacy CRM
+LEG-1336,Stanton-Gill,Rohan Verma,02/23/2021,,68157.63,In Progress,Discount applied
+LEG-1337,"Martinez, Nielsen and Miller",Arjun Rao,2021/07/15,2021/10/06,53818.04,Won,Migrated from legacy CRM
+LEG-1338,Stanley LLC,Karan Malhotra,2021/10/05,2021/12/23,52975.41,Won,
+LEG-1339,Dennis Inc,Aditi Sharma,26-07-2022,21-11-2022,16151.13,Cancelled,Discount applied
+LEG-1340,Rhodes PLC,Vikram Singh,2021/04/23,2021/07/18,59060.59,Lost,
+LEG-1341,"Campos, Vaughn and Marquez",Arjun Rao,12-10-2021,27-01-2022,48719.47,Lost,Discount applied
+LEG-1342,Robinson-Bright,Sneha Kapoor,20-09-2021,15-12-2021,75893.53,Won,
+LEG-1343,James-Ferrell,Nisha Pillai,03/08/2021,06/03/2021,6574.83,Won,Discount applied
+LEG-1344,"Valencia, Smith and Le",Rohan Verma,11/19/2022,01/28/2023,71389.67,Lost,
+LEG-1345,Koch-Decker,Arjun Rao,2021/11/21,2022/03/19,75432.82,Won,
+LEG-1346,Lewis-Porter,Deepak Joshi,2022/07/10,2022/08/18,"$38,285.66",Won,
+LEG-1347,"Campos, Vaughn and Marquez",Sneha Kapoor,2021/03/16,,4084.12,In Progress,Renewal
+LEG-1348,Cole LLC,Rohan Verma,05-03-2021,27-03-2021,75699.08,Lost,Discount applied
+LEG-1349,"Santos, Kim and Holmes",Priya Nair,11-11-2021,11-03-2022,"$8,120.79",Won,Migrated from legacy CRM
+LEG-1350,Koch-Decker,Karan Malhotra,02/11/2022,03/07/2022,42969.77,Cancelled,Renewal
+LEG-1351,Chavez Ltd,Vikram Singh,01/09/2022,01/30/2022,58825.25,Won,Renewal
+LEG-1352,"Valencia, Smith and Le",Meera Iyer,2021/03/17,2021/07/01,80147.45,Lost,Migrated from legacy CRM
+LEG-1353,Harrell LLC,Sneha Kapoor,07-03-2021,02-07-2021,68144.22,Won,
+LEG-1354,Allen PLC,Priya Nair,09-02-2022,,26664.94,In Progress,
+LEG-1355,Robinson-Bright,Meera Iyer,12-03-2022,21-04-2022,"$11,670.07",Lost,Migrated from legacy CRM
+LEG-1356,"Montgomery, Hensley and Ray",Rohan Verma,26-07-2022,30-09-2022,83736.35,Won,Discount applied
+LEG-1357,"Ellis, Baker and Wright",Meera Iyer,22-09-2022,24-11-2022,22822.91,Cancelled,Renewal
+LEG-1358,Allen PLC,Priya Nair,2021/01/09,2021/03/09,14428.72,Won,Migrated from legacy CRM
+LEG-1359,"Sellers, George and Burns",Aditi Sharma,29-10-2021,,"$31,779.95",In Progress,
+LEG-1360,Ramirez-Lewis,Sneha Kapoor,23-07-2022,12-09-2022,24339.65,Cancelled,Discount applied
+LEG-1361,Stanley LLC,Rohan Verma,2022/06/13,2022/07/16,67718.82,Won,
+LEG-1362,"Valencia, Smith and Le",Meera Iyer,02/12/2022,04/30/2022,19685.71,Won,Renewal
+LEG-1363,Allen PLC,Karan Malhotra,12/25/2022,04/06/2023,69177.55,Won,Discount applied
+LEG-1364,Chavez Ltd,Aditi Sharma,2021/06/26,2021/10/06,39124.56,Cancelled,Discount applied
+LEG-1365,Harrell LLC,Aditi Sharma,2022/01/15,2022/04/21,38639.2,Cancelled,Renewal
+LEG-1366,Campos Inc,Aditi Sharma,05/15/2022,07/20/2022,"$71,070.18",Cancelled,Discount applied
+LEG-1367,"Montgomery, Hensley and Ray",Rohan Verma,04-05-2021,11-08-2021,19518.61,Cancelled,Migrated from legacy CRM
+LEG-1368,James-Ferrell,Nisha Pillai,07/16/2021,09/11/2021,89043.11,Lost,
+LEG-1369,James-Ferrell,Vikram Singh,15-07-2021,05-11-2021,10256.78,Won,Discount applied
+LEG-1370,Allen PLC,Aditi Sharma,04/17/2021,08/08/2021,40976.65,Lost,
+LEG-1371,Allen PLC,Sneha Kapoor,2021/05/02,,85820.4,In Progress,Discount applied
+LEG-1372,"Santos, Kim and Holmes",Deepak Joshi,07/21/2021,,59759.88,In Progress,Discount applied
+LEG-1373,Johnson-Davis,Vikram Singh,07-08-2021,12-11-2021,42860.27,Won,Migrated from legacy CRM
+LEG-1374,Stanley LLC,Aditi Sharma,07/25/2022,09/08/2022,37582.67,Cancelled,Migrated from legacy CRM
+LEG-1375,"Lynch, Hernandez and Farmer",Nisha Pillai,09/21/2021,10/15/2021,9459.37,Cancelled,Renewal
+LEG-1376,"Martinez, Nielsen and Miller",Meera Iyer,11/20/2022,02/22/2023,82717.37,Won,Discount applied
+LEG-1377,James-Ferrell,Meera Iyer,06/10/2022,08/27/2022,59324.29,Lost,Migrated from legacy CRM
+LEG-1378,Conner Group,Sneha Kapoor,28-12-2021,15-02-2022,61067.03,Won,Renewal
+LEG-1379,Burgess-Patterson,Arjun Rao,03/26/2022,04/13/2022,28045.35,Won,Migrated from legacy CRM
+LEG-1380,"Santos, Kim and Holmes",Priya Nair,2021/11/30,2022/02/20,43618.98,Lost,
+LEG-1381,"Zuniga, Wong and Lynch",Karan Malhotra,04/09/2021,05/11/2021,53540.58,Won,Migrated from legacy CRM
+LEG-1382,Burgess-Patterson,Vikram Singh,05-01-2021,22-02-2021,62864.36,Lost,Migrated from legacy CRM
+LEG-1383,"Zuniga, Wong and Lynch",Arjun Rao,16-10-2021,12-01-2022,38714.02,Won,
+LEG-1384,"Lynch, Hernandez and Farmer",Deepak Joshi,06-09-2022,24-11-2022,52154.28,Won,Renewal
+LEG-1385,"Hawkins, Cohen and Cameron",Karan Malhotra,2021/10/04,2021/12/29,31557.96,Won,
+LEG-1386,Cole LLC,Rohan Verma,21-09-2022,24-12-2022,79486.51,Cancelled,Discount applied
+LEG-1387,Underwood LLC,Aditi Sharma,17-11-2021,08-12-2021,48852.66,Won,Migrated from legacy CRM
+LEG-1388,"Ellis, Baker and Wright",Karan Malhotra,10-11-2021,03-01-2022,31971.15,Won,
+LEG-1389,Koch-Decker,Rohan Verma,08/24/2022,,74308.34,In Progress,
+LEG-1390,Ramirez-Lewis,Priya Nair,2022/04/20,2022/07/01,86542.82,Won,
+LEG-1391,Koch-Decker,Vikram Singh,2022/03/10,2022/04/16,49512.24,Won,Discount applied
+LEG-1392,Dennis Inc,Arjun Rao,2021/08/08,2021/09/08,35044.85,Cancelled,
+LEG-1393,"Ellis, Baker and Wright",Nisha Pillai,03/16/2022,,73607.69,In Progress,Discount applied
+LEG-1394,Munoz-Roman,Vikram Singh,2022/05/22,2022/09/10,50346.68,Won,Discount applied
+LEG-1395,"Potter, Mack and Peterson",Arjun Rao,12/16/2021,04/04/2022,28046.78,Won,Discount applied
+LEG-1396,Blake and Sons,Sneha Kapoor,10-05-2021,28-07-2021,30190.59,Won,
+LEG-1397,"Zuniga, Wong and Lynch",Nisha Pillai,18-10-2021,02-11-2021,7687.24,Lost,
+LEG-1398,"Ellis, Baker and Wright",Rohan Verma,08/21/2021,,79945.23,In Progress,
+LEG-1399,Dennis Inc,Meera Iyer,2022/06/20,2022/08/17,6905.88,Won,Migrated from legacy CRM
+LEG-1400,"Lynch, Hernandez and Farmer",Meera Iyer,04/07/2022,06/27/2022,57054.14,Cancelled,
+LEG-1401,"Rodriguez, Figueroa and Sanchez",Meera Iyer,2022/12/07,2023/03/13,65865.03,Won,Discount applied
+LEG-1402,"Flowers, Martin and Kelly",Meera Iyer,25-07-2022,,28760.54,In Progress,Discount applied
+LEG-1403,"Rodriguez, Figueroa and Sanchez",Priya Nair,08/26/2021,09/23/2021,"$75,925.12",Won,
+LEG-1404,"Flowers, Martin and Kelly",Deepak Joshi,24-07-2021,09-08-2021,48684.79,Cancelled,Migrated from legacy CRM
+LEG-1405,Stanley LLC,Meera Iyer,2022/07/27,2022/09/01,38746.18,Won,Renewal
+LEG-1406,Munoz-Roman,Sneha Kapoor,09/24/2021,11/11/2021,87703.46,Lost,Discount applied
+LEG-1407,Stanton-Gill,Sneha Kapoor,11-11-2022,06-01-2023,47939.82,Lost,
+LEG-1408,Stanley LLC,Rohan Verma,26-05-2021,19-08-2021,65772.86,Cancelled,
+LEG-1409,Stanley LLC,Aditi Sharma,12/29/2022,04/23/2023,66634.1,Won,
+LEG-1410,"Montgomery, Hensley and Ray",Rohan Verma,05/12/2021,08/08/2021,82229.17,Cancelled,Migrated from legacy CRM
+LEG-1411,"Montgomery, Hensley and Ray",Arjun Rao,14-07-2022,11-10-2022,24319.4,Won,
+LEG-1412,Stanton-Gill,Vikram Singh,20-01-2021,14-04-2021,84813.87,Lost,
+LEG-1413,"Lynch, Hernandez and Farmer",Nisha Pillai,15-06-2022,,53109.76,In Progress,
+LEG-1414,Stanley LLC,Nisha Pillai,11/19/2022,01/30/2023,74938.74,Lost,Renewal
+LEG-1415,Koch-Decker,Vikram Singh,2021/06/02,2021/06/24,25198.08,Won,
+LEG-1416,Koch-Decker,Karan Malhotra,2022/08/05,2022/12/02,15891.68,Lost,
+LEG-1417,"Johnson, Gonzalez and Santos",Deepak Joshi,30-08-2022,09-12-2022,15585.6,Lost,
+LEG-1418,Stanton-Gill,Deepak Joshi,2021/02/20,2021/03/12,69445.72,Cancelled,Migrated from legacy CRM
+LEG-1419,"Sanchez, Ford and Nelson",Deepak Joshi,09/11/2022,,79552.32,In Progress,Renewal
+LEG-1420,Blake and Sons,Nisha Pillai,03-08-2022,28-11-2022,27919.2,Won,
