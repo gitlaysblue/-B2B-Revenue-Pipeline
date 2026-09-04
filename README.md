@@ -121,7 +121,9 @@ quota-attainment pivot, and a sales-cycle-by-stage bar chart.
 detail table, a category × region revenue pivot, and the embedded **Power
 Apps write-back portal**.
 
-*(Add dashboard screenshots / exported PDF here once finalized.)*
+<img width="2000" height="1156" alt="dash" src="https://github.com/user-attachments/assets/84ddc9f0-6420-4691-bc48-89262d987d00" />
+<img width="2000" height="1156" alt="dash2" src="https://github.com/user-attachments/assets/fd542f62-aa05-4c8f-888f-60fc5bd52b30" />
+
 
 ## Automation: Power Automate
 
@@ -134,6 +136,9 @@ pulled in as dynamic content.
 This closes the loop between "data changes" and "someone finds out about
 it" without anyone needing to check the dashboard manually.
 
+<img width="1910" height="862" alt="flow_image" src="https://github.com/user-attachments/assets/f5f6f347-e9ea-4491-95c9-085c961792b7" />
+
+<img width="1876" height="855" alt="Mail_alert_image" src="https://github.com/user-attachments/assets/dfe620a4-b3f6-47c0-b152-b210a77aa0e1" />
 ## Write-Back: Power Apps Portal
 
 Reps and managers shouldn't only *view* stalled deals — they should be able
@@ -160,6 +165,8 @@ after a slicer change (~250ms vs ~120ms) than simple `COUNTROWS`-based
 measures — an expected cost of the dual-date-relationship pattern, not a
 problem worth re-engineering at this scale, but a useful data point for
 explaining trade-offs.
+<img width="1756" height="687" alt="performance_analyzer" src="https://github.com/user-attachments/assets/e4a39d83-dee4-42ae-9f76-f3e3216eb6ac" />
+
 
 ## Validation: SQL vs. DAX
 
@@ -196,16 +203,19 @@ deliberately, since working through these was most of the actual learning:
   first required manually creating the second (inactive) relationship in
   Model view, since `USERELATIONSHIP` can only toggle between relationships
   that already exist, not create new ones.
+  
 - **Chronological sorting on text columns:** `MonthYear` (e.g. "Jan 2023")
   sorted alphabetically by default. Fixed with a numeric `MonthYearSort`
   helper column (`YEAR*100 + MONTH`) and Power BI's **Sort by Column**
   feature — a two-field Year/Month hierarchy was tried first but caused
   Power BI to collapse the axis into a drill hierarchy, hiding month-level
   detail entirely.
+  
 - **Column renamed during cleaning:** `Quota (USD)` no longer existed under
   that exact name after Power Query cleanup, breaking a measure reference.
   Fixed by using DAX autocomplete (rather than retyping column names from
   memory) to always match the model's real column names.
+  
 - **Wrong SharePoint connector picked twice:** first between *"When a file
   is created or modified"* (document libraries) vs *"When an item is
   created or modified"* (lists) — needed the latter for structured list
@@ -214,20 +224,19 @@ deliberately, since working through these was most of the actual learning:
   `Unauthorized` error traced back to a university tenant blocking the
   work/school connector, resolved by switching both the email connector and
   the signed-in account to a personal Microsoft account.
-- **Wrong embedded visual:** the "Power Automate" button visual and the
-  "Power Apps" embed visual look similar in the visual picker but do
-  completely different things — had to delete and re-add with the correct
-  one.
+  
 - **Open Deals list population:** exporting the filtered table visual to
   Excel only carried the 4 columns that happened to be on that visual, not
   the 8 needed for the write-back list. Solved by writing a direct SQL
   query against the source tables instead of relying on a UI export.
+  
 - **Deal Count mismatch investigation:** SQL returned 1,600, the dashboard
   card showed "2K" — initially misdiagnosed as an unintentional merge with
   the legacy CSV table (420 rows). Re-checked against the actual model
   diagram, which confirmed `legacy_deals_2021_2022` was never merged into
   `fact_deals`; the real cause was compact-number display rounding, not a
   data issue.
+  
 - **Raw source data quality:** the legacy CSV mixed date formats
   (`2021/12/06`, `27-04-2021`, `11/04/2022`) and currency-formatted strings
   (`"$4,926.14"`) with plain numbers in the same column; the SharePoint
@@ -237,9 +246,9 @@ deliberately, since working through these was most of the actual learning:
 ## How to Explore This Project
 
 - **Raw data sources:** [`mysql_seed.sql`](dataset/mysql_seed.sql) ·
-  [`legacy_deals_2021_2022.csv`](legacy_deals_2021_2022.csv) ·
-  [`sharepoint_rep_quotas.csv`](sharepoint_rep_quotas.csv)
-- **Power BI dashboard:** [`b2bdashboard.pbix`](b2bdashboard.pbix) — open in
+  [`legacy_deals_2021_2022.csv`](dataset/legacy_deals_2021_2022.csv) ·
+  [`sharepoint_rep_quotas.csv`](dataset/sharepoint_rep_quotas.csv)
+- **Power BI dashboard:** [`b2bdashboard.pbix`](b2bdashboardfin.pbix) — open in
   Power BI Desktop (free) to explore the full model, all DAX measures, and
   all three report pages.
 - **Tableau workbook:** *(link to be added once the Tableau mirror is
